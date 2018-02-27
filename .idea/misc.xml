@@ -5,6 +5,7 @@
     <file type="web" url="file://$PROJECT_DIR$/cms" />
     <file type="web" url="file://$PROJECT_DIR$/essentials" />
     <file type="web" url="file://$PROJECT_DIR$/site" />
+    <type id="Spring" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">

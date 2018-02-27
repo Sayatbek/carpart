@@ -2,7 +2,7 @@
 <#include "../include/imports.ftl">
 <html class="no-js" lang="en">
 <head>
-<title>Hippo Go Green - Home</title>
+<title>Запчатси рено пежо алматы</title>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
  
@@ -35,26 +35,12 @@
  
       <div class="top-bar">
         <div class="container">
-          <div class="row">
-            <!-- lang navigation -->
-            <div class="col-sm-7 langnav">
-              <nav>
-                <ul class="" id="language">
- 
-                  <li class="active"><i class="fa fa-ellipsis-h"></i> <span>United States</span>
-                    <ul>
-                      <li><a href="fr.html">France</a></li>
-                    </ul></li>
- 
-                </ul>
-              </nav>
-            </div>
             <div class="col-sm-5" id="top-search">
  
               <div class="searchbox">
                 <form action="<@hst.link siteMapItemRefId="search" />" method="get">
                   <input type="text" class="searchbox-inputtext" id="searchbox-inputtext" name="query"
-                    placeholder="Search" /> <label class="searchbox-icon" for="searchbox-inputtext"></label> <input
+                    placeholder="Поиск" /> <label class="searchbox-icon" for="searchbox-inputtext"></label> <input
                     type="submit" class="searchbox-submit" value="Search" />
                 </form>
               </div>
@@ -70,7 +56,7 @@
  
             <!-- Logo -->
             <div class="col-xs-2 logo">
-              <a href="index.html"><img src="<@hst.webfile path="/images/gogreenlogo2.png"/>" alt="" height="107" /></a>
+              <a href="index.html"><img src="<@hst.webfile path="/images/logo11.png"/>" alt="" height="107" /></a>
             </div>
             <!-- //Logo// -->
  
@@ -120,7 +106,7 @@
       </div>
  
       <@hst.include ref="main"/>
- 
+
     </div>
  
     <!-- footer -->
