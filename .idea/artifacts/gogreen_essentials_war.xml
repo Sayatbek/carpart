@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="gogreen-essentials:war">
+    <output-path>$PROJECT_DIR$/essentials/target</output-path>
+    <root id="archive" name="essentials.war">
+      <element id="artifact" artifact-name="gogreen-essentials:war exploded" />
+    </root>
+  </artifact>
+</component>
