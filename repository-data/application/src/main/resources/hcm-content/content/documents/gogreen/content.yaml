@@ -6,243 +6,252 @@
   hippostd:foldertype: [new-content-document, new-content-folder]
   hippotranslation:id: da289bd3-26a9-4f9d-afaf-27dabfd31c85
   hippotranslation:locale: en
-  /sample-document:
+  /условия-возврата-запчастей:
     jcr:primaryType: hippo:handle
     jcr:mixinTypes: ['hippo:named', 'mix:referenceable']
-    jcr:uuid: 64ab4648-0c20-40d2-9f18-d7a394f0334b
-    hippo:name: Sample document
-    /sample-document:
+    jcr:uuid: 61931bf8-8846-4340-86da-97272d2dfe6d
+    hippo:name: Условия возврата запчастей
+    /условия-возврата-запчастей[1]:
       jcr:primaryType: gogreen:contentdocument
       jcr:mixinTypes: ['mix:referenceable']
-      jcr:uuid: 6e17b71b-3bb9-4444-8cff-2f02276fb310
-      gogreen:introduction: Lorem Ipsum is simply dummy text of the printing and typesetting
-        industry.
-      gogreen:publicationdate: 2014-03-25T16:52:00+01:00
-      gogreen:title: Lorem
-      hippo:availability: [live, preview]
-      hippostd:holder: admin
-      hippostd:state: published
-      hippostdpubwf:createdBy: admin
-      hippostdpubwf:creationDate: 2014-03-25T16:52:00+01:00
-      hippostdpubwf:lastModificationDate: 2014-03-25T16:52:00+01:00
-      hippostdpubwf:lastModifiedBy: admin
-      hippostdpubwf:publicationDate: 2014-03-25T16:52:00+01:00
-      hippotranslation:id: 009dfec3-211a-46fe-bcd6-6935351a0b00
-      hippotranslation:locale: en
-      /gogreen:content:
-        jcr:primaryType: hippostd:html
-        hippostd:content: |-
-          <html>
-                      <body>
-
-                      <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has
-                      roots in a piece of classical Latin literature from 45 BC, making it over 2000
-                      years old. Richard McClintock, a Latin professor at Hampden-Sydney College in
-                      Virginia, looked up one of the more obscure Latin words, consectetur, from a
-                      Lorem Ipsum passage, and going through the cites of the word in classical
-                      literature, discovered the undoubtable source. Lorem Ipsum comes from sections
-                      1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and
-                      Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of
-                      ethics, very popular during the Renaissance. The first line of Lorem Ipsum,
-                      "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.</p>
-
-                      </body>
-                      </html>
-  /another-sample-document:
-    jcr:primaryType: hippo:handle
-    jcr:mixinTypes: ['hippo:named', 'mix:referenceable']
-    jcr:uuid: 9caea793-42b1-4f3e-a8e5-d58f810ce2ef
-    hippo:name: Another sample document
-    /another-sample-document:
-      jcr:primaryType: gogreen:contentdocument
-      jcr:mixinTypes: ['mix:referenceable']
-      jcr:uuid: 0e84c77a-968d-4624-9401-552254490531
-      gogreen:introduction: Lorem Ipsum is simply dummy text of the printing and typesetting
-        industry.
-      gogreen:publicationdate: 2014-03-25T16:52:00+01:00
-      gogreen:title: Another Lorem
-      hippo:availability: [live, preview]
-      hippostd:holder: admin
-      hippostd:state: published
-      hippostdpubwf:createdBy: admin
-      hippostdpubwf:creationDate: 2014-03-25T16:52:00+01:00
-      hippostdpubwf:lastModificationDate: 2014-03-25T16:57:00+01:00
-      hippostdpubwf:lastModifiedBy: admin
-      hippostdpubwf:publicationDate: 2014-03-25T16:57:00+01:00
-      hippotranslation:id: 4c2c014b-367c-43b8-9157-e590003de5e5
-      hippotranslation:locale: en
-      /gogreen:content:
-        jcr:primaryType: hippostd:html
-        hippostd:content: |-
-          <html>
-                      <body>
-
-                      <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has
-                      roots in a piece of classical Latin literature from 45 BC, making it over 2000
-                      years old. Richard McClintock, a Latin professor at Hampden-Sydney College in
-                      Virginia, looked up one of the more obscure Latin words, consectetur, from a
-                      Lorem Ipsum passage, and going through the cites of the word in classical
-                      literature, discovered the undoubtable source. Lorem Ipsum comes from sections
-                      1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and
-                      Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of
-                      ethics, very popular during the Renaissance. The first line of Lorem Ipsum,
-                      "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.</p>
-
-                      </body>
-                      </html>
-  /quick-facts:
-    jcr:primaryType: hippo:handle
-    jcr:mixinTypes: ['hippo:named', 'mix:referenceable']
-    jcr:uuid: 5f7c7461-c1d5-4c8a-9ed3-adfacdfdbd5a
-    hippo:name: Quick Facts
-    /quick-facts[1]:
-      jcr:primaryType: gogreen:contentdocument
-      jcr:mixinTypes: ['mix:referenceable']
-      jcr:uuid: 2a4896cb-3542-44f1-8220-6d25818ba45b
-      gogreen:introduction: ''
-      gogreen:publicationdate: 2017-09-13T13:55:00-07:00
-      gogreen:title: Quick facts about Hippo
+      jcr:uuid: 7815e937-4cdd-47b2-ba96-3f6089ceb5a2
+      gogreen:introduction: Товар подлежит возврату или обмену в течение 5 дней, при
+        условии сохранения товарного вида, товар не был установлен, т.е. чистая упаковка,
+        если таковая имеется.
+      gogreen:publicationdate: 2018-09-06T13:45:00+02:00
+      gogreen:title: Условия возврата запчастей
       hippo:availability: []
       hippo:related___pathreference: []
       hippostd:state: draft
       hippostdpubwf:createdBy: admin
-      hippostdpubwf:creationDate: 2017-09-13T13:54:50.491-07:00
-      hippostdpubwf:lastModificationDate: 2017-09-13T13:54:50.492-07:00
+      hippostdpubwf:creationDate: 2018-09-06T13:45:10.657+02:00
+      hippostdpubwf:lastModificationDate: 2018-09-06T13:45:10.657+02:00
       hippostdpubwf:lastModifiedBy: admin
-      hippotranslation:id: af265106-1bf2-4d21-a51c-33feca7ab95d
+      hippotranslation:id: a26b85c7-9d82-4a8f-954f-3459ea88279b
       hippotranslation:locale: en
       /gogreen:content:
         jcr:primaryType: hippostd:html
-        hippostd:content: |-
-          <ul>
-           <li>Founded in 1999</li>
-           <li>80+ employees</li>
-           <li>Offices in Amsterdam and Boston</li>
-           <li>Privately held</li>
-           <li>2007, 2008 and 2009 Deloitte FAST 500 EMEA Winner based on revenue growth</li>
-          </ul>
-    /quick-facts[2]:
+        hippostd:content: ''
+    /условия-возврата-запчастей[2]:
       jcr:primaryType: gogreen:contentdocument
       jcr:mixinTypes: ['mix:referenceable', 'mix:versionable']
-      jcr:uuid: 00e2252e-5b69-4909-9021-f9b37d92f846
-      gogreen:introduction: ''
-      gogreen:publicationdate: 2017-09-13T13:55:00-07:00
-      gogreen:title: Quick facts about Hippo
+      jcr:uuid: 3c4b249c-ac7d-4fc6-b5e8-96b953f7a974
+      gogreen:introduction: Товар подлежит возврату или обмену в течение 5 дней, при
+        условии сохранения товарного вида, товар не был установлен, т.е. чистая упаковка,
+        если таковая имеется.
+      gogreen:publicationdate: 2018-09-06T13:45:00+02:00
+      gogreen:title: Условия возврата запчастей
       hippo:availability: [preview]
       hippo:related___pathreference: []
       hippostd:state: unpublished
       hippostdpubwf:createdBy: admin
-      hippostdpubwf:creationDate: 2017-09-13T13:54:50.491-07:00
-      hippostdpubwf:lastModificationDate: 2017-09-13T13:55:19.877-07:00
+      hippostdpubwf:creationDate: 2018-09-06T13:45:10.657+02:00
+      hippostdpubwf:lastModificationDate: 2018-09-06T13:45:19.583+02:00
       hippostdpubwf:lastModifiedBy: admin
-      hippotranslation:id: af265106-1bf2-4d21-a51c-33feca7ab95d
+      hippotranslation:id: a26b85c7-9d82-4a8f-954f-3459ea88279b
       hippotranslation:locale: en
       /gogreen:content:
         jcr:primaryType: hippostd:html
-        hippostd:content: |-
-          <ul>
-           <li>Founded in 1999</li>
-           <li>80+ employees</li>
-           <li>Offices in Amsterdam and Boston</li>
-           <li>Privately held</li>
-           <li>2007, 2008 and 2009 Deloitte FAST 500 EMEA Winner based on revenue growth</li>
-          </ul>
-    /quick-facts[3]:
+        hippostd:content: ''
+    /условия-возврата-запчастей[3]:
       jcr:primaryType: gogreen:contentdocument
       jcr:mixinTypes: ['mix:referenceable']
-      jcr:uuid: 7bff1d89-d25a-4e52-9937-596b86359345
-      gogreen:introduction: ''
-      gogreen:publicationdate: 2017-09-13T13:55:00-07:00
-      gogreen:title: Quick facts about Hippo
+      jcr:uuid: 72ec059a-1af5-4030-9bb4-b275bb92505b
+      gogreen:introduction: Товар подлежит возврату или обмену в течение 5 дней, при
+        условии сохранения товарного вида, товар не был установлен, т.е. чистая упаковка,
+        если таковая имеется.
+      gogreen:publicationdate: 2018-09-06T13:45:00+02:00
+      gogreen:title: Условия возврата запчастей
       hippo:availability: [live]
       hippo:related___pathreference: []
       hippostd:state: published
       hippostdpubwf:createdBy: admin
-      hippostdpubwf:creationDate: 2017-09-13T13:54:50.491-07:00
-      hippostdpubwf:lastModificationDate: 2017-09-13T13:55:19.877-07:00
+      hippostdpubwf:creationDate: 2018-09-06T13:45:10.657+02:00
+      hippostdpubwf:lastModificationDate: 2018-09-06T13:45:19.583+02:00
       hippostdpubwf:lastModifiedBy: admin
-      hippostdpubwf:publicationDate: 2017-09-13T13:55:22.093-07:00
-      hippotranslation:id: af265106-1bf2-4d21-a51c-33feca7ab95d
+      hippostdpubwf:publicationDate: 2018-09-06T13:45:21.491+02:00
+      hippotranslation:id: a26b85c7-9d82-4a8f-954f-3459ea88279b
       hippotranslation:locale: en
       /gogreen:content:
         jcr:primaryType: hippostd:html
-        hippostd:content: |-
-          <ul>
-           <li>Founded in 1999</li>
-           <li>80+ employees</li>
-           <li>Offices in Amsterdam and Boston</li>
-           <li>Privately held</li>
-           <li>2007, 2008 and 2009 Deloitte FAST 500 EMEA Winner based on revenue growth</li>
-          </ul>
-  /terms--conditions:
+        hippostd:content: ''
+  /запчасти-на-рено---renault:
     jcr:primaryType: hippo:handle
     jcr:mixinTypes: ['hippo:named', 'mix:referenceable']
-    jcr:uuid: baa6ffc2-334e-4cea-b154-e9c893583795
-    hippo:name: Terms & Conditions
-    /terms--conditions[1]:
+    jcr:uuid: 8701aec0-fe34-4b7b-8302-a6a15c6b5785
+    hippo:name: ЗАПЧАСТИ НА РЕНО / RENAULT
+    /запчасти-на-рено---renault[1]:
       jcr:primaryType: gogreen:contentdocument
       jcr:mixinTypes: ['mix:referenceable']
-      jcr:uuid: dd7c466c-ea83-42b1-b446-6fc8079eeeb1
-      gogreen:introduction: All content is only used for demo uses.
-      gogreen:publicationdate: 2017-09-13T13:55:00-07:00
-      gogreen:title: Terms & Conditions
+      jcr:uuid: 032dcb3b-cd5c-4fdc-931d-c45e2de362b1
+      gogreen:introduction: ''
+      gogreen:publicationdate: 2018-09-06T13:50:00+02:00
+      gogreen:title: ЗАПЧАСТИ НА РЕНО / RENAULT
       hippo:availability: []
       hippo:related___pathreference: []
       hippostd:state: draft
       hippostdpubwf:createdBy: admin
-      hippostdpubwf:creationDate: 2017-09-13T13:55:29.973-07:00
-      hippostdpubwf:lastModificationDate: 2017-09-13T13:55:29.973-07:00
+      hippostdpubwf:creationDate: 2018-09-06T13:50:26.420+02:00
+      hippostdpubwf:lastModificationDate: 2018-09-06T13:59:56.303+02:00
       hippostdpubwf:lastModifiedBy: admin
-      hippotranslation:id: ed685790-1853-42f8-9f39-2662f0a22e44
+      hippotranslation:id: 2e0ebd5d-06a6-41c8-a2e7-fcb23e357caa
       hippotranslation:locale: en
       /gogreen:content:
         jcr:primaryType: hippostd:html
-        hippostd:content: <p>Hippo tried to only use Creative commons license &amp;
-          give the credits to the original owners. If you find some content wihich
-          shouldn't be in our demo, please email us at info @ onehippo(dot)com and
-          we will remove it.</p>
-    /terms--conditions[2]:
+        hippostd:content: |-
+          <p><strong>Запчасти на Рено</strong> в Алматы от ведущих оптовых магазинов запчастей предлагает наш&nbsp;магазин. Мы поможем вам,&nbsp;купить запчасти на Рено в Алматы. Рено – известный представитель французского автопрома. Эта компания славится своими и легковыми автомобилями, и грузовыми тягачами, которые пользуются уважением у дальнобойщиков. В Алматы можно встретить немало Рено на дорогах и в последнее время их количество увеличивается. Сказывается недорогая стоимость этих автомобилей и хорошая приспособленность к нашим условиям.</p>
+
+          <p><iframe allowfullscreen="" src="https://www.youtube.com/embed/LfXVlmDePUs" width="917" frameborder="0" height="516"></iframe></p>
+
+          <p>Запчасти на Рено вам будет удобно заказать у нас, потому что для этого вам достаточно будет только зайти на наш сайт, связаться с нами и оформить заявку. Нет никакой необходимости куда-то ехать, долго ходить и выбирать. Наш интернет-сервис по поиску и заказу запчастей намного упростит вам задачу покупки запчастей на Рено в Алматы. Да и в других регионах Казахстана, т.к. мы работаем с доставкой наших заказов.</p>
+
+          <p>У нас вы можете заказать и купить запчасти на Рено Логан, запчасти на Рено Дастер, запчасти на Рено Лагуна на Рено Клио и многие другие модели этого бренда.</p>
+
+          <p>Заказывайте и получайте запчасти в лучшем виде!</p>
+          <br />
+          <br />
+    /запчасти-на-рено---renault[2]:
       jcr:primaryType: gogreen:contentdocument
       jcr:mixinTypes: ['mix:referenceable', 'mix:versionable']
-      jcr:uuid: e4d21241-e9f2-4ad4-a854-87129ef25d64
-      gogreen:introduction: All content is only used for demo uses.
-      gogreen:publicationdate: 2017-09-13T13:55:00-07:00
-      gogreen:title: Terms & Conditions
+      jcr:uuid: bc180df9-5124-4849-8dbd-bca07c424ed9
+      gogreen:introduction: ''
+      gogreen:publicationdate: 2018-09-06T13:50:00+02:00
+      gogreen:title: ЗАПЧАСТИ НА РЕНО / RENAULT
       hippo:availability: [preview]
       hippo:related___pathreference: []
       hippostd:state: unpublished
       hippostdpubwf:createdBy: admin
-      hippostdpubwf:creationDate: 2017-09-13T13:55:29.973-07:00
-      hippostdpubwf:lastModificationDate: 2017-09-13T13:55:50.815-07:00
+      hippostdpubwf:creationDate: 2018-09-06T13:50:26.420+02:00
+      hippostdpubwf:lastModificationDate: 2018-09-06T14:00:16.792+02:00
       hippostdpubwf:lastModifiedBy: admin
-      hippotranslation:id: ed685790-1853-42f8-9f39-2662f0a22e44
+      hippotranslation:id: 2e0ebd5d-06a6-41c8-a2e7-fcb23e357caa
       hippotranslation:locale: en
       /gogreen:content:
         jcr:primaryType: hippostd:html
-        hippostd:content: <p>Hippo tried to only use Creative commons license &amp;
-          give the credits to the original owners. If you find some content wihich
-          shouldn't be in our demo, please email us at info @ onehippo(dot)com and
-          we will remove it.</p>
-    /terms--conditions[3]:
+        hippostd:content: |-
+          <p><strong>Запчасти на Рено</strong> в Алматы от ведущих оптовых магазинов запчастей предлагает наш&nbsp;магазин. Мы поможем вам,&nbsp;купить запчасти на Рено в Алматы. Рено – известный представитель французского автопрома. Эта компания славится своими и легковыми автомобилями, и грузовыми тягачами, которые пользуются уважением у дальнобойщиков. В Алматы можно встретить немало Рено на дорогах и в последнее время их количество увеличивается. Сказывается недорогая стоимость этих автомобилей и хорошая приспособленность к нашим условиям.</p>
+
+          <p><iframe allowfullscreen="" src="https://www.youtube.com/embed/LfXVlmDePUs" width="917" frameborder="0" height="516"></iframe></p>
+
+          <p>Запчасти на Рено вам будет удобно заказать у нас, потому что для этого вам достаточно будет только зайти на наш сайт, связаться с нами и оформить заявку. Нет никакой необходимости куда-то ехать, долго ходить и выбирать. Наш интернет-сервис по поиску и заказу запчастей намного упростит вам задачу покупки запчастей на Рено в Алматы. Да и в других регионах Казахстана, т.к. мы работаем с доставкой наших заказов.</p>
+
+          <p>У нас вы можете заказать и купить запчасти на Рено Логан, запчасти на Рено Дастер, запчасти на Рено Лагуна на Рено Клио и многие другие модели этого бренда.</p>
+
+          <p>Заказывайте и получайте запчасти в лучшем виде!</p>
+          <br />
+          <br />
+    /запчасти-на-рено---renault[3]:
       jcr:primaryType: gogreen:contentdocument
       jcr:mixinTypes: ['mix:referenceable']
-      jcr:uuid: d8853982-a69f-4a5c-b8b4-bde33ddc2934
-      gogreen:introduction: All content is only used for demo uses.
-      gogreen:publicationdate: 2017-09-13T13:55:00-07:00
-      gogreen:title: Terms & Conditions
+      jcr:uuid: 5ea9333a-c180-4be3-8fed-a18209ce92f9
+      gogreen:introduction: ''
+      gogreen:publicationdate: 2018-09-06T13:50:00+02:00
+      gogreen:title: ЗАПЧАСТИ НА РЕНО / RENAULT
       hippo:availability: [live]
       hippo:related___pathreference: []
       hippostd:state: published
       hippostdpubwf:createdBy: admin
-      hippostdpubwf:creationDate: 2017-09-13T13:55:29.973-07:00
-      hippostdpubwf:lastModificationDate: 2017-09-13T13:55:50.815-07:00
+      hippostdpubwf:creationDate: 2018-09-06T13:50:26.420+02:00
+      hippostdpubwf:lastModificationDate: 2018-09-06T14:00:16.792+02:00
       hippostdpubwf:lastModifiedBy: admin
-      hippostdpubwf:publicationDate: 2017-09-13T13:55:52.098-07:00
-      hippotranslation:id: ed685790-1853-42f8-9f39-2662f0a22e44
+      hippostdpubwf:publicationDate: 2018-09-06T14:00:18.490+02:00
+      hippotranslation:id: 2e0ebd5d-06a6-41c8-a2e7-fcb23e357caa
       hippotranslation:locale: en
       /gogreen:content:
         jcr:primaryType: hippostd:html
-        hippostd:content: <p>Hippo tried to only use Creative commons license &amp;
-          give the credits to the original owners. If you find some content wihich
-          shouldn't be in our demo, please email us at info @ onehippo(dot)com and
-          we will remove it.</p>
+        hippostd:content: |-
+          <p><strong>Запчасти на Рено</strong> в Алматы от ведущих оптовых магазинов запчастей предлагает наш&nbsp;магазин. Мы поможем вам,&nbsp;купить запчасти на Рено в Алматы. Рено – известный представитель французского автопрома. Эта компания славится своими и легковыми автомобилями, и грузовыми тягачами, которые пользуются уважением у дальнобойщиков. В Алматы можно встретить немало Рено на дорогах и в последнее время их количество увеличивается. Сказывается недорогая стоимость этих автомобилей и хорошая приспособленность к нашим условиям.</p>
+
+          <p><iframe allowfullscreen="" src="https://www.youtube.com/embed/LfXVlmDePUs" width="917" frameborder="0" height="516"></iframe></p>
+
+          <p>Запчасти на Рено вам будет удобно заказать у нас, потому что для этого вам достаточно будет только зайти на наш сайт, связаться с нами и оформить заявку. Нет никакой необходимости куда-то ехать, долго ходить и выбирать. Наш интернет-сервис по поиску и заказу запчастей намного упростит вам задачу покупки запчастей на Рено в Алматы. Да и в других регионах Казахстана, т.к. мы работаем с доставкой наших заказов.</p>
+
+          <p>У нас вы можете заказать и купить запчасти на Рено Логан, запчасти на Рено Дастер, запчасти на Рено Лагуна на Рено Клио и многие другие модели этого бренда.</p>
+
+          <p>Заказывайте и получайте запчасти в лучшем виде!</p>
+          <br />
+          <br />
+  /запчасти-на-пежо---peugeot:
+    jcr:primaryType: hippo:handle
+    jcr:mixinTypes: ['hippo:named', 'mix:referenceable']
+    jcr:uuid: 38f0b0ed-6f9c-4bc6-8dd9-53d7bbf48d6f
+    hippo:name: ЗАПЧАСТИ НА ПЕЖО / PEUGEOT
+    /запчасти-на-пежо---peugeot[1]:
+      jcr:primaryType: gogreen:contentdocument
+      jcr:mixinTypes: ['mix:referenceable']
+      jcr:uuid: 1167699b-1968-424a-be45-ecc20b83640c
+      gogreen:introduction: ''
+      gogreen:publicationdate: 2018-09-06T13:51:00+02:00
+      gogreen:title: ЗАПЧАСТИ НА ПЕЖО / PEUGEOT
+      hippo:availability: []
+      hippo:related___pathreference: []
+      hippostd:state: draft
+      hippostdpubwf:createdBy: admin
+      hippostdpubwf:creationDate: 2018-09-06T13:50:56.853+02:00
+      hippostdpubwf:lastModificationDate: 2018-09-06T13:50:56.853+02:00
+      hippostdpubwf:lastModifiedBy: admin
+      hippotranslation:id: c681cd03-85f5-4b6d-8a4e-d12a8296db1e
+      hippotranslation:locale: en
+      /gogreen:content:
+        jcr:primaryType: hippostd:html
+        hippostd:content: |-
+          <p>Сегодня под маркой Peugeot выпускают множество различных красивых, удобных, комфортабельных моделей автомобилей. Каждая из них пользуется заслуженной популярностью у многих автомобилистов в Казахстане, поскольку автомобили этой фирмы достаточно надежны даже для наших климатических условий. Чтобы автомобиль не подводил, важно использовать только качественные автозапчасти. В интернет-магазине "Imperia-Auto.kz" в широком ассортименте представлены&nbsp;<strong>оригинальные автозапчасти</strong>&nbsp;для автомобилей данной марки от производителя по самым выгодным ценам. Также у нас вы найдете неоригинальные запчасти высокого качества.&nbsp;</p>
+
+          <p><iframe allowfullscreen="" src="https://www.youtube.com/embed/rAYZc30lMVU" width="859" frameborder="0" height="483"></iframe></p>
+
+          <p>Только качественные детали позволят обеспечить безукоризненную работу автомобиля и не снизить его эксплуатационные характеристики. Мы предлагаем вам самые надежные автозапчасти от ведущих производителей: запчасти&nbsp;<strong>Peugeot 206</strong>, запчасти&nbsp;<strong>Peugeot 307</strong>, запчасти&nbsp;<strong><strong><strong>Peugeot&nbsp;</strong>Boxer</strong></strong>, запчасти&nbsp;<strong>Peugeot 207&nbsp;</strong>,<strong>&nbsp;</strong>запчасти&nbsp;<strong><strong><strong><strong>Peugeot 406</strong></strong></strong></strong><strong><strong>&nbsp;</strong></strong>и гарантируем их безупречную работу, безотказность и долговечность. Все запчасти изготавливаются на современном оборудовании с использованием качественных материалов и проходят строгий контроль на всех этапах производства. Поэтому продукция, которая поступает в наш интернет-магазин, не имеет никаких недоработок и дефектов.</p>
+
+          <p>Важно помнить, что от качества деталей, устанавливаемых на Ваш автомобиль, напрямую зависит его техническое состояние, надежность и безопасность. В нашем интернет-магазине представлены только качественные автозапчасти, а выгодные цены порадуют как оптовых, так и розничных покупателей. Всем клиентам мы предлагаем наиболее выгодные условия сотрудничества, индивидуальный подход и профессиональные консультации.</p>
+    /запчасти-на-пежо---peugeot[2]:
+      jcr:primaryType: gogreen:contentdocument
+      jcr:mixinTypes: ['mix:referenceable', 'mix:versionable']
+      jcr:uuid: 7a104325-5134-4f54-9cf4-4172a45e87a9
+      gogreen:introduction: ''
+      gogreen:publicationdate: 2018-09-06T13:51:00+02:00
+      gogreen:title: ЗАПЧАСТИ НА ПЕЖО / PEUGEOT
+      hippo:availability: [preview]
+      hippo:related___pathreference: []
+      hippostd:state: unpublished
+      hippostdpubwf:createdBy: admin
+      hippostdpubwf:creationDate: 2018-09-06T13:50:56.853+02:00
+      hippostdpubwf:lastModificationDate: 2018-09-06T13:51:07.496+02:00
+      hippostdpubwf:lastModifiedBy: admin
+      hippotranslation:id: c681cd03-85f5-4b6d-8a4e-d12a8296db1e
+      hippotranslation:locale: en
+      /gogreen:content:
+        jcr:primaryType: hippostd:html
+        hippostd:content: |-
+          <p>Сегодня под маркой Peugeot выпускают множество различных красивых, удобных, комфортабельных моделей автомобилей. Каждая из них пользуется заслуженной популярностью у многих автомобилистов в Казахстане, поскольку автомобили этой фирмы достаточно надежны даже для наших климатических условий. Чтобы автомобиль не подводил, важно использовать только качественные автозапчасти. В интернет-магазине "Imperia-Auto.kz" в широком ассортименте представлены&nbsp;<strong>оригинальные автозапчасти</strong>&nbsp;для автомобилей данной марки от производителя по самым выгодным ценам. Также у нас вы найдете неоригинальные запчасти высокого качества.&nbsp;</p>
+
+          <p><iframe allowfullscreen="" src="https://www.youtube.com/embed/rAYZc30lMVU" width="859" frameborder="0" height="483"></iframe></p>
+
+          <p>Только качественные детали позволят обеспечить безукоризненную работу автомобиля и не снизить его эксплуатационные характеристики. Мы предлагаем вам самые надежные автозапчасти от ведущих производителей: запчасти&nbsp;<strong>Peugeot 206</strong>, запчасти&nbsp;<strong>Peugeot 307</strong>, запчасти&nbsp;<strong><strong><strong>Peugeot&nbsp;</strong>Boxer</strong></strong>, запчасти&nbsp;<strong>Peugeot 207&nbsp;</strong>,<strong>&nbsp;</strong>запчасти&nbsp;<strong><strong><strong><strong>Peugeot 406</strong></strong></strong></strong><strong><strong>&nbsp;</strong></strong>и гарантируем их безупречную работу, безотказность и долговечность. Все запчасти изготавливаются на современном оборудовании с использованием качественных материалов и проходят строгий контроль на всех этапах производства. Поэтому продукция, которая поступает в наш интернет-магазин, не имеет никаких недоработок и дефектов.</p>
+
+          <p>Важно помнить, что от качества деталей, устанавливаемых на Ваш автомобиль, напрямую зависит его техническое состояние, надежность и безопасность. В нашем интернет-магазине представлены только качественные автозапчасти, а выгодные цены порадуют как оптовых, так и розничных покупателей. Всем клиентам мы предлагаем наиболее выгодные условия сотрудничества, индивидуальный подход и профессиональные консультации.</p>
+    /запчасти-на-пежо---peugeot[3]:
+      jcr:primaryType: gogreen:contentdocument
+      jcr:mixinTypes: ['mix:referenceable']
+      jcr:uuid: 8a1fafc9-b886-475f-aad3-019d5631342a
+      gogreen:introduction: ''
+      gogreen:publicationdate: 2018-09-06T13:51:00+02:00
+      gogreen:title: ЗАПЧАСТИ НА ПЕЖО / PEUGEOT
+      hippo:availability: [live]
+      hippo:related___pathreference: []
+      hippostd:state: published
+      hippostdpubwf:createdBy: admin
+      hippostdpubwf:creationDate: 2018-09-06T13:50:56.853+02:00
+      hippostdpubwf:lastModificationDate: 2018-09-06T13:51:07.496+02:00
+      hippostdpubwf:lastModifiedBy: admin
+      hippostdpubwf:publicationDate: 2018-09-06T13:51:09.475+02:00
+      hippotranslation:id: c681cd03-85f5-4b6d-8a4e-d12a8296db1e
+      hippotranslation:locale: en
+      /gogreen:content:
+        jcr:primaryType: hippostd:html
+        hippostd:content: |-
+          <p>Сегодня под маркой Peugeot выпускают множество различных красивых, удобных, комфортабельных моделей автомобилей. Каждая из них пользуется заслуженной популярностью у многих автомобилистов в Казахстане, поскольку автомобили этой фирмы достаточно надежны даже для наших климатических условий. Чтобы автомобиль не подводил, важно использовать только качественные автозапчасти. В интернет-магазине "Imperia-Auto.kz" в широком ассортименте представлены&nbsp;<strong>оригинальные автозапчасти</strong>&nbsp;для автомобилей данной марки от производителя по самым выгодным ценам. Также у нас вы найдете неоригинальные запчасти высокого качества.&nbsp;</p>
+
+          <p><iframe allowfullscreen="" src="https://www.youtube.com/embed/rAYZc30lMVU" width="859" frameborder="0" height="483"></iframe></p>
+
+          <p>Только качественные детали позволят обеспечить безукоризненную работу автомобиля и не снизить его эксплуатационные характеристики. Мы предлагаем вам самые надежные автозапчасти от ведущих производителей: запчасти&nbsp;<strong>Peugeot 206</strong>, запчасти&nbsp;<strong>Peugeot 307</strong>, запчасти&nbsp;<strong><strong><strong>Peugeot&nbsp;</strong>Boxer</strong></strong>, запчасти&nbsp;<strong>Peugeot 207&nbsp;</strong>,<strong>&nbsp;</strong>запчасти&nbsp;<strong><strong><strong><strong>Peugeot 406</strong></strong></strong></strong><strong><strong>&nbsp;</strong></strong>и гарантируем их безупречную работу, безотказность и долговечность. Все запчасти изготавливаются на современном оборудовании с использованием качественных материалов и проходят строгий контроль на всех этапах производства. Поэтому продукция, которая поступает в наш интернет-магазин, не имеет никаких недоработок и дефектов.</p>
+
+          <p>Важно помнить, что от качества деталей, устанавливаемых на Ваш автомобиль, напрямую зависит его техническое состояние, надежность и безопасность. В нашем интернет-магазине представлены только качественные автозапчасти, а выгодные цены порадуют как оптовых, так и розничных покупателей. Всем клиентам мы предлагаем наиболее выгодные условия сотрудничества, индивидуальный подход и профессиональные консультации.</p>

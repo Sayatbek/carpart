@@ -2,7 +2,7 @@
 <#if pageable??>
   <div class="row">
     <div class="col-md-12 col-sm-12">
-      <h2 class="h2-section-title">Featured Products</h2>
+      <h2 class="h2-section-title"><br>Производители запчастей на рено пежо</h2>
     </div>
   </div>
   <div class="container">

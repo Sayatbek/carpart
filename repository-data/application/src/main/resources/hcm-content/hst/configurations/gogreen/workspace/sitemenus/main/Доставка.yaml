@@ -1,0 +1,4 @@
+/hst:hst/hst:configurations/gogreen/hst:workspace/hst:sitemenus/main/Доставка:
+  .meta:order-before: Гарантия
+  jcr:primaryType: hst:sitemenuitem
+  hst:repobased: false

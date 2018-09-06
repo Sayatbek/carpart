@@ -15,87 +15,105 @@
       jcr:primaryType: gogreen:contentdocument
       jcr:mixinTypes: ['mix:referenceable']
       jcr:uuid: 0c6843c8-d17c-4d2e-9e4e-8bddcba5f3b8
-      gogreen:introduction: This website is a demo website to showcase the features
-        of Hippo CMS.
-      gogreen:publicationdate: 2017-09-13T12:32:00-07:00
-      gogreen:title: About GoGreen
+      gogreen:introduction: 'Магазин по продаже автозапчастей на рено пежо находится
+        по адресу:'
+      gogreen:publicationdate: 2018-09-06T13:45:00+02:00
+      gogreen:title: Наши контакты
       hippo:availability: []
       hippo:related___pathreference: []
       hippostd:state: draft
       hippostdpubwf:createdBy: admin
       hippostdpubwf:creationDate: 2017-09-13T12:31:57.310-07:00
-      hippostdpubwf:lastModificationDate: 2017-09-13T12:31:57.310-07:00
+      hippostdpubwf:lastModificationDate: 2018-09-06T14:58:52.531+02:00
       hippostdpubwf:lastModifiedBy: admin
       hippotranslation:id: e0e60a6c-d73a-4af5-99af-8f8be5983c3c
       hippotranslation:locale: en
       /gogreen:content:
         jcr:primaryType: hippostd:html
         hippostd:content: |-
-          <p>Hippo CMS is the Content Management System for creating personalized experiences across all channels. Hippo’s open standards philosophy makes it the ideal solution for agile development and open integration.</p>
+          <p>Республика Казахстан</p>
 
-          <p>Editors love Hippo because it's easy to use and helps them get their work done quickly and efficiently.</p>
+          <p>Алматинская область</p>
 
-          <p>Marketers love Hippo because they can roll out and manage channels simply - and increase conversion with targeting and personalization.</p>
+          <p>г. Алматы, индекс 050000</p>
 
-          <p>IT folks love Hippo because they can create new functionality quickly and can integrate with other systems in no-time. And it's just fun to work with the latest and coolest technology.</p>
+          <p>улица Северное Кольцо</p>
 
-          <p>Find out more at&nbsp;<a href="http://www.onehippo.com/">onehippo.com</a></p>
+          <p>авторынок Кенжехан</p>
+
+          <p>ряд - 5&nbsp; место - 28</p>
+
+          <p>Телефон: +7 700 300 78 38</p>
+
+          <p>email: <a href="mailto:sayatbek@mail.ru">sayatbek@mail.ru</a>,&nbsp;<a href="mailto:dk.orazbekov@gmail.com">dk.orazbekov@gmail.com</a></p>
     /about[2]:
       jcr:primaryType: gogreen:contentdocument
       jcr:mixinTypes: ['mix:referenceable', 'mix:versionable']
       jcr:uuid: ce6b5508-d1df-4e8c-a872-74e648628ec3
-      gogreen:introduction: This website is a demo website to showcase the features
-        of Hippo CMS.
-      gogreen:publicationdate: 2017-09-13T12:32:00-07:00
-      gogreen:title: About GoGreen
+      gogreen:introduction: 'Магазин по продаже автозапчастей на рено пежо находится
+        по адресу:'
+      gogreen:publicationdate: 2018-09-06T13:45:00+02:00
+      gogreen:title: Наши контакты
       hippo:availability: [preview]
       hippo:related___pathreference: []
       hippostd:state: unpublished
       hippostdpubwf:createdBy: admin
       hippostdpubwf:creationDate: 2017-09-13T12:31:57.310-07:00
-      hippostdpubwf:lastModificationDate: 2017-09-13T12:32:22.681-07:00
+      hippostdpubwf:lastModificationDate: 2018-09-06T14:59:31.628+02:00
       hippostdpubwf:lastModifiedBy: admin
       hippotranslation:id: e0e60a6c-d73a-4af5-99af-8f8be5983c3c
       hippotranslation:locale: en
       /gogreen:content:
         jcr:primaryType: hippostd:html
         hippostd:content: |-
-          <p>Hippo CMS is the Content Management System for creating personalized experiences across all channels. Hippo’s open standards philosophy makes it the ideal solution for agile development and open integration.</p>
+          <p>Республика Казахстан</p>
 
-          <p>Editors love Hippo because it's easy to use and helps them get their work done quickly and efficiently.</p>
+          <p>Алматинская область</p>
 
-          <p>Marketers love Hippo because they can roll out and manage channels simply - and increase conversion with targeting and personalization.</p>
+          <p>г. Алматы, индекс 050000</p>
 
-          <p>IT folks love Hippo because they can create new functionality quickly and can integrate with other systems in no-time. And it's just fun to work with the latest and coolest technology.</p>
+          <p>улица Северное Кольцо</p>
 
-          <p>Find out more at&nbsp;<a href="http://www.onehippo.com/">onehippo.com</a></p>
+          <p>авторынок Кенжехан</p>
+
+          <p>ряд - 5&nbsp; место - 28</p>
+
+          <p>Телефон: +7 700 300 78 38</p>
+
+          <p>email: <a href="mailto:sayatbek@mail.ru">sayatbek@mail.ru</a>,&nbsp;<a href="mailto:dk.orazbekov@gmail.com">dk.orazbekov@gmail.com</a></p>
     /about[3]:
       jcr:primaryType: gogreen:contentdocument
       jcr:mixinTypes: ['mix:referenceable']
       jcr:uuid: ab0b7d6c-c3ee-4293-a579-b8db22e208d8
-      gogreen:introduction: This website is a demo website to showcase the features
-        of Hippo CMS.
-      gogreen:publicationdate: 2017-09-13T12:32:00-07:00
-      gogreen:title: About GoGreen
+      gogreen:introduction: 'Магазин по продаже автозапчастей на рено пежо находится
+        по адресу:'
+      gogreen:publicationdate: 2018-09-06T13:45:00+02:00
+      gogreen:title: Наши контакты
       hippo:availability: [live]
       hippo:related___pathreference: []
       hippostd:state: published
       hippostdpubwf:createdBy: admin
       hippostdpubwf:creationDate: 2017-09-13T12:31:57.310-07:00
-      hippostdpubwf:lastModificationDate: 2017-09-13T12:32:22.681-07:00
+      hippostdpubwf:lastModificationDate: 2018-09-06T14:59:31.628+02:00
       hippostdpubwf:lastModifiedBy: admin
-      hippostdpubwf:publicationDate: 2017-09-13T12:32:24.846-07:00
+      hippostdpubwf:publicationDate: 2018-09-06T14:59:34.963+02:00
       hippotranslation:id: e0e60a6c-d73a-4af5-99af-8f8be5983c3c
       hippotranslation:locale: en
       /gogreen:content:
         jcr:primaryType: hippostd:html
         hippostd:content: |-
-          <p>Hippo CMS is the Content Management System for creating personalized experiences across all channels. Hippo’s open standards philosophy makes it the ideal solution for agile development and open integration.</p>
+          <p>Республика Казахстан</p>
 
-          <p>Editors love Hippo because it's easy to use and helps them get their work done quickly and efficiently.</p>
+          <p>Алматинская область</p>
 
-          <p>Marketers love Hippo because they can roll out and manage channels simply - and increase conversion with targeting and personalization.</p>
+          <p>г. Алматы, индекс 050000</p>
 
-          <p>IT folks love Hippo because they can create new functionality quickly and can integrate with other systems in no-time. And it's just fun to work with the latest and coolest technology.</p>
+          <p>улица Северное Кольцо</p>
 
-          <p>Find out more at&nbsp;<a href="http://www.onehippo.com/">onehippo.com</a></p>
+          <p>авторынок Кенжехан</p>
+
+          <p>ряд - 5&nbsp; место - 28</p>
+
+          <p>Телефон: +7 700 300 78 38</p>
+
+          <p>email: <a href="mailto:sayatbek@mail.ru">sayatbek@mail.ru</a>,&nbsp;<a href="mailto:dk.orazbekov@gmail.com">dk.orazbekov@gmail.com</a></p>

@@ -2,18 +2,80 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7e54868c-4ca7-4d84-9f11-4642bab2a335" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/repository-data/webfiles/src/main/resources/site/images/logo11.png" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/repository-data/application/pom.xml" afterPath="$PROJECT_DIR$/repository-data/application/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/repository-data/application/src/main/resources/hcm-config/hst/configurations/gogreen/workspace/sitemenus.yaml" afterPath="$PROJECT_DIR$/repository-data/application/src/main/resources/hcm-config/hst/configurations/gogreen/workspace/sitemenus.yaml" />
-      <change beforePath="$PROJECT_DIR$/repository-data/application/src/main/resources/hcm-content/hst/configurations/gogreen/workspace/sitemenus/main/About.yaml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/repository-data/application/src/main/resources/hcm-content/hst/configurations/gogreen/workspace/sitemenus/main/Home.yaml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/repository-data/application/src/main/resources/hcm-content/hst/configurations/gogreen/workspace/sitemenus/main/News.yaml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/repository-data/application/src/main/resources/hcm-content/hst/configurations/gogreen/workspace/sitemenus/main/Products.yaml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/repository-data/development/pom.xml" afterPath="$PROJECT_DIR$/repository-data/development/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/repository-data/webfiles/src/main/resources/site/freemarker/gogreen/base-layout.ftl" afterPath="$PROJECT_DIR$/repository-data/webfiles/src/main/resources/site/freemarker/gogreen/base-layout.ftl" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0.info" beforeDir="false" afterPath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/WEB-INF/classes/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/WEB-INF/classes/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/WEB-INF/classes/errors/404.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/WEB-INF/classes/errors/404.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/WEB-INF/classes/errors/500.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/WEB-INF/classes/errors/500.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/WEB-INF/classes/errors/503.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/WEB-INF/classes/errors/503.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/WEB-INF/classes/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/WEB-INF/classes/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/WEB-INF/classes/jackson.xml" beforeDir="false" afterPath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/WEB-INF/classes/jackson.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/WEB-INF/jsp/errors/404.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/WEB-INF/jsp/errors/404.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/WEB-INF/jsp/errors/500.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/WEB-INF/jsp/errors/500.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/WEB-INF/jsp/errors/503.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/WEB-INF/jsp/errors/503.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/WEB-INF/jsp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/WEB-INF/jsp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/components/angular-animate/angular-animate.js" beforeDir="false" afterPath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/components/angular-animate/angular-animate.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/components/angular-aria/angular-aria.js" beforeDir="false" afterPath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/components/angular-aria/angular-aria.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/components/angular-chosen-localytics/dist/angular-chosen.js" beforeDir="false" afterPath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/components/angular-chosen-localytics/dist/angular-chosen.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/components/angular-sanitize/angular-sanitize.js" beforeDir="false" afterPath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/components/angular-sanitize/angular-sanitize.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/components/angular-ui-bootstrap/dist/ui-bootstrap-tpls.js" beforeDir="false" afterPath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/components/angular-ui-bootstrap/dist/ui-bootstrap-tpls.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/components/angular-ui-router/release/angular-ui-router.js" beforeDir="false" afterPath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/components/angular-ui-router/release/angular-ui-router.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/components/angular-ui-tree/dist/angular-ui-tree.css" beforeDir="false" afterPath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/components/angular-ui-tree/dist/angular-ui-tree.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/components/angular-ui-tree/dist/angular-ui-tree.js" beforeDir="false" afterPath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/components/angular-ui-tree/dist/angular-ui-tree.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/components/angular/angular.js" beforeDir="false" afterPath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/components/angular/angular.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/components/chosen-js/chosen.jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/components/chosen-js/chosen.jquery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/components/hippo-theme/dist/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/components/hippo-theme/dist/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/components/hippo-theme/dist/css/main.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/components/hippo-theme/dist/css/main.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/components/hippo-theme/dist/fonts/glyphicons-halflings-regular.svg" beforeDir="false" afterPath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/components/hippo-theme/dist/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/components/hippo-theme/dist/images/hippo-icon-sprite.svg" beforeDir="false" afterPath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/components/hippo-theme/dist/images/hippo-icon-sprite.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/components/hippo-theme/dist/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/components/hippo-theme/dist/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/components/hippo-theme/dist/js/main.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/components/hippo-theme/dist/js/main.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/components/jquery/dist/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/components/jquery/dist/jquery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/directives/essentials-cms-document-type-deep-link.html" beforeDir="false" afterPath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/directives/essentials-cms-document-type-deep-link.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/directives/essentials-draft-warning.html" beforeDir="false" afterPath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/directives/essentials-draft-warning.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/directives/essentials-feature-footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/directives/essentials-feature-footer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/directives/essentials-folder-picker.html" beforeDir="false" afterPath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/directives/essentials-folder-picker.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/directives/essentials-help.html" beforeDir="false" afterPath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/directives/essentials-help.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/directives/essentials-installed-feature.html" beforeDir="false" afterPath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/directives/essentials-installed-feature.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/directives/essentials-installed-tool.html" beforeDir="false" afterPath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/directives/essentials-installed-tool.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/directives/essentials-messages.html" beforeDir="false" afterPath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/directives/essentials-messages.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/directives/essentials-notifier.html" beforeDir="false" afterPath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/directives/essentials-notifier.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/directives/essentials-plugin.html" beforeDir="false" afterPath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/directives/essentials-plugin.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/directives/essentials-simple-install-plugin.html" beforeDir="false" afterPath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/directives/essentials-simple-install-plugin.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/directives/essentials-template-settings.html" beforeDir="false" afterPath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/directives/essentials-template-settings.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/docs/rest-api/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/docs/rest-api/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/docs/rest-api/oauth2-redirect.html" beforeDir="false" afterPath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/docs/rest-api/oauth2-redirect.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/docs/rest-api/swagger-ui-bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/docs/rest-api/swagger-ui-bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/docs/rest-api/swagger-ui-standalone-preset.js" beforeDir="false" afterPath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/docs/rest-api/swagger-ui-standalone-preset.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/docs/rest-api/swagger-ui.css" beforeDir="false" afterPath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/docs/rest-api/swagger-ui.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/docs/rest-api/swagger-ui.js" beforeDir="false" afterPath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/docs/rest-api/swagger-ui.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/js/Essentials.js" beforeDir="false" afterPath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/js/Essentials.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/js/controllers.js" beforeDir="false" afterPath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/js/controllers.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/js/directives.js" beforeDir="false" afterPath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/js/directives.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/js/lib/angular-ui-tree.js" beforeDir="false" afterPath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/js/lib/angular-ui-tree.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/js/loader.js" beforeDir="false" afterPath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/js/loader.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/js/routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/js/routes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/pages/build.html" beforeDir="false" afterPath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/pages/build.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/pages/installed-features.html" beforeDir="false" afterPath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/pages/installed-features.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/pages/introduction.html" beforeDir="false" afterPath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/pages/introduction.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/pages/library.html" beforeDir="false" afterPath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/pages/library.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/pages/tools.html" beforeDir="false" afterPath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/pages/tools.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository-data/application/src/main/resources/hcm-config/hst/configurations/gogreen/workspace/containers.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/repository-data/application/src/main/resources/hcm-config/hst/configurations/gogreen/workspace/containers.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository-data/application/src/main/resources/hcm-config/hst/configurations/gogreen/workspace/sitemenus.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/repository-data/application/src/main/resources/hcm-config/hst/configurations/gogreen/workspace/sitemenus.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository-data/application/src/main/resources/hcm-content/content/documents/gogreen/about.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/repository-data/application/src/main/resources/hcm-content/content/documents/gogreen/about.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository-data/application/src/main/resources/hcm-content/content/documents/gogreen/banners.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/repository-data/application/src/main/resources/hcm-content/content/documents/gogreen/banners.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository-data/application/src/main/resources/hcm-content/content/documents/gogreen/content.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/repository-data/application/src/main/resources/hcm-content/content/documents/gogreen/content.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository-data/application/src/main/resources/hcm-content/content/documents/gogreen/news.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/repository-data/application/src/main/resources/hcm-content/content/documents/gogreen/news.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository-data/application/src/main/resources/hcm-content/content/documents/gogreen/products.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/repository-data/application/src/main/resources/hcm-content/content/documents/gogreen/products.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository-data/application/src/main/resources/hcm-content/content/gallery/gogreen/products.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/repository-data/application/src/main/resources/hcm-content/content/gallery/gogreen/products.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository-data/application/src/main/resources/hcm-content/hst/configurations/gogreen/workspace/containers/homepage/main/carousel.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/repository-data/application/src/main/resources/hcm-content/hst/configurations/gogreen/workspace/containers/homepage/main/carousel.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository-data/application/src/main/resources/hcm-content/hst/configurations/gogreen/workspace/containers/homepage/main/featured-products.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/repository-data/application/src/main/resources/hcm-content/hst/configurations/gogreen/workspace/containers/homepage/main/featured-products.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository-data/webfiles/src/main/resources/site/freemarker/gogreen/base-layout.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/repository-data/webfiles/src/main/resources/site/freemarker/gogreen/base-layout.ftl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository-data/webfiles/src/main/resources/site/freemarker/gogreen/featured-products.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/repository-data/webfiles/src/main/resources/site/freemarker/gogreen/featured-products.ftl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository-data/webfiles/src/main/resources/site/freemarker/gogreen/twocolumns-right-menu.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/repository-data/webfiles/src/main/resources/site/freemarker/gogreen/twocolumns-right-menu.ftl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository-data/webfiles/src/main/resources/site/images/logo11.png" beforeDir="false" afterPath="$PROJECT_DIR$/repository-data/webfiles/src/main/resources/site/images/logo11.png" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/essentials/target/" />
     <ignored path="$PROJECT_DIR$/repository-data/development/target/" />
@@ -30,24 +92,94 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="base-layout.ftl" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/repository-data/webfiles/src/main/resources/site/freemarker/gogreen/base-layout.ftl">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="113">
-              <caret line="99" column="23" lean-forward="false" selection-start-line="99" selection-start-column="23" selection-end-line="99" selection-end-column="23" />
-              <folding />
+            <state relative-caret-position="272">
+              <caret line="58" column="100" selection-start-line="58" selection-start-column="100" selection-end-line="58" selection-end-column="100" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="search-main.ftl" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/repository-data/webfiles/src/main/resources/site/freemarker/gogreen/search-main.ftl">
+      <file leaf-file-name="twocolumns-right-menu.ftl" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/repository-data/webfiles/src/main/resources/site/freemarker/gogreen/twocolumns-right-menu.ftl">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="255">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+              <folding>
+                <element signature="e#1048#1064#0#HTML" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="base-top-menu.ftl" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/repository-data/webfiles/src/main/resources/site/freemarker/gogreen/base-top-menu.ftl">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="faceted-navigation.ftl" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/repository-data/webfiles/src/main/resources/site/freemarker/gogreen/faceted-navigation.ftl">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="featured-products.ftl" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/repository-data/webfiles/src/main/resources/site/freemarker/gogreen/featured-products.ftl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="39" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="twocolumns-main.ftl" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/repository-data/webfiles/src/main/resources/site/freemarker/gogreen/twocolumns-main.ftl">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="homepage-main.ftl" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/repository-data/webfiles/src/main/resources/site/freemarker/gogreen/homepage-main.ftl">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="366" column="26" selection-start-line="366" selection-start-column="26" selection-end-line="366" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="context.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/conf/context.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="catalina-logging.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/conf/catalina-logging.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="57" selection-start-line="57" selection-end-line="57" />
             </state>
           </provider>
         </entry>
@@ -62,17 +194,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GradleLocalSettings">
-    <option name="externalProjectsViewState">
-      <projects_view />
-    </option>
-  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/repository-data/application/pom.xml" />
         <option value="$PROJECT_DIR$/repository-data/development/pom.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/repository-data/webfiles/src/main/resources/site/freemarker/gogreen/featured-products.ftl" />
+        <option value="$PROJECT_DIR$/repository-data/webfiles/src/main/resources/site/freemarker/gogreen/twocolumns-right-menu.ftl" />
         <option value="$PROJECT_DIR$/repository-data/webfiles/src/main/resources/site/freemarker/gogreen/base-layout.ftl" />
       </list>
     </option>
@@ -90,108 +219,44 @@
       </MavenImportingSettings>
     </option>
   </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="10" />
-    <option name="y" value="20" />
-    <option name="width" value="1346" />
-    <option name="height" value="688" />
+    <option name="x" value="15" />
+    <option name="y" value="30" />
+    <option name="width" value="1890" />
+    <option name="height" value="930" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-      <manualOrder />
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="gogreen" type="b2602c69:ProjectViewProjectNode" />
-              <item name="website-tutorial" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gogreen" type="b2602c69:ProjectViewProjectNode" />
-              <item name="website-tutorial" type="462c0819:PsiDirectoryNode" />
-              <item name="repository-data" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gogreen" type="b2602c69:ProjectViewProjectNode" />
-              <item name="website-tutorial" type="462c0819:PsiDirectoryNode" />
-              <item name="repository-data" type="462c0819:PsiDirectoryNode" />
-              <item name="webfiles" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gogreen" type="b2602c69:ProjectViewProjectNode" />
-              <item name="website-tutorial" type="462c0819:PsiDirectoryNode" />
-              <item name="repository-data" type="462c0819:PsiDirectoryNode" />
-              <item name="webfiles" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gogreen" type="b2602c69:ProjectViewProjectNode" />
-              <item name="website-tutorial" type="462c0819:PsiDirectoryNode" />
-              <item name="repository-data" type="462c0819:PsiDirectoryNode" />
-              <item name="webfiles" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gogreen" type="b2602c69:ProjectViewProjectNode" />
-              <item name="website-tutorial" type="462c0819:PsiDirectoryNode" />
-              <item name="repository-data" type="462c0819:PsiDirectoryNode" />
-              <item name="webfiles" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gogreen" type="b2602c69:ProjectViewProjectNode" />
-              <item name="website-tutorial" type="462c0819:PsiDirectoryNode" />
-              <item name="repository-data" type="462c0819:PsiDirectoryNode" />
-              <item name="webfiles" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="site" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gogreen" type="b2602c69:ProjectViewProjectNode" />
-              <item name="website-tutorial" type="462c0819:PsiDirectoryNode" />
-              <item name="repository-data" type="462c0819:PsiDirectoryNode" />
-              <item name="webfiles" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="site" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="carpart" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../mainsite" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
@@ -208,29 +273,12 @@
   </component>
   <component name="RunManager">
     <configuration default="true" type="Applet" factoryName="Applet">
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <module />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" />
@@ -240,24 +288,13 @@
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="TEST_SEARCH_SCOPE">
         <value defaultName="singleModule" />
       </option>
-      <envs />
       <patterns />
     </configuration>
-    <configuration default="true" type="Remote" factoryName="Remote">
-      <option name="USE_SOCKET_TRANSPORT" value="true" />
-      <option name="SERVER_MODE" value="false" />
-      <option name="SHMEM_ADDRESS" value="javadebug" />
-      <option name="HOST" value="localhost" />
-      <option name="PORT" value="5005" />
-    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" />
@@ -270,27 +307,15 @@
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="TEST_SEARCH_SCOPE">
         <value defaultName="singleModule" />
       </option>
       <option name="USE_DEFAULT_REPORTERS" value="false" />
       <option name="PROPERTIES_FILE" />
-      <envs />
       <properties />
       <listeners />
     </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
-      <module name="" />
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
-      <option name="PROGRAM_PARAMETERS" />
-      <predefined_log_file id="idea.log" enabled="true" />
-    </configuration>
-  </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -308,49 +333,50 @@
       <workItem from="1519749476972" duration="602000" />
       <workItem from="1519750168194" duration="334000" />
       <workItem from="1519750546930" duration="1645000" />
+      <workItem from="1536230221866" duration="6158000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5583000" />
+    <option name="totallyTimeSpent" value="11741000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="JRebel Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40715504" sideWeight="0.5030257" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="JRebel Executor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.40715504" sideWeight="0.4969743" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2685325" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="JRebel" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="JRebel Console" order="8" sideWeight="0.5030257" side_tool="true" weight="0.40715504" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="JRebel Executor" order="8" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Database" order="3" visible="true" weight="0.21908316" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="bottom" id="Java Enterprise" order="7" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4969743" visible="true" weight="0.43973213" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18763326" />
+      <window_info anchor="right" id="Bean Validation" order="4" />
+      <window_info id="Web" order="3" side_tool="true" />
+      <window_info id="JRebel" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -359,153 +385,172 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager />
-    <watches-manager />
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/repository-data/application/pom.xml">
+    <entry file="file://$PROJECT_DIR$/repository-data/webfiles/src/main/resources/site/freemarker/gogreen/base-layout.ftl">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="13" lean-forward="false" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/repository-data/development/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2720">
-          <caret line="160" column="0" lean-forward="false" selection-start-line="160" selection-start-column="0" selection-end-line="160" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/repository-data/application/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="13" lean-forward="false" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/repository-data/development/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2720">
-          <caret line="160" column="0" lean-forward="false" selection-start-line="160" selection-start-column="0" selection-end-line="160" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/repository-data/application/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="13" lean-forward="false" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/repository-data/development/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2720">
-          <caret line="160" column="0" lean-forward="false" selection-start-line="160" selection-start-column="0" selection-end-line="160" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/repository-data/application/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="13" lean-forward="false" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/repository-data/development/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="160" column="0" lean-forward="false" selection-start-line="160" selection-start-column="0" selection-end-line="160" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/repository-data/webfiles/src/main/resources/site/freemarker/gogreen/homepage-main.ftl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="1683">
+          <caret line="99" column="23" selection-start-line="99" selection-start-column="23" selection-end-line="99" selection-end-column="23" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/repository-data/webfiles/src/main/resources/site/freemarker/gogreen/search-main.ftl">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repository-data/application/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="408">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/repository-data/webfiles/src/main/resources/site/images/gogreenlogo2.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
+    <entry file="file://$PROJECT_DIR$/repository-data/development/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2720">
+          <caret line="160" selection-start-line="160" selection-end-line="160" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repository-data/application/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repository-data/development/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2720">
+          <caret line="160" selection-start-line="160" selection-end-line="160" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repository-data/application/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repository-data/development/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2720">
+          <caret line="160" selection-start-line="160" selection-end-line="160" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repository-data/application/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repository-data/development/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repository-data/webfiles/src/main/resources/site/freemarker/gogreen/search-main.ftl">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repository-data/webfiles/src/main/resources/site/images/gogreenlogo2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="366" column="26" selection-start-line="366" selection-start-column="26" selection-end-line="366" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf/catalina-logging.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="57" selection-start-line="57" selection-end-line="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf/context.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repository-data/webfiles/src/main/resources/site/freemarker/gogreen/featured-products.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="39" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repository-data/webfiles/src/main/resources/site/freemarker/gogreen/twocolumns-main.ftl">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repository-data/webfiles/src/main/resources/site/freemarker/gogreen/homepage-main.ftl">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repository-data/webfiles/src/main/resources/site/freemarker/gogreen/twocolumns-right-menu.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="e#1048#1064#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repository-data/webfiles/src/main/resources/site/freemarker/gogreen/base-top-menu.ftl">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repository-data/webfiles/src/main/resources/site/freemarker/gogreen/faceted-navigation.ftl">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/repository-data/webfiles/src/main/resources/site/freemarker/gogreen/base-layout.ftl">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="113">
-          <caret line="99" column="23" lean-forward="false" selection-start-line="99" selection-start-column="23" selection-end-line="99" selection-end-column="23" />
-          <folding />
+        <state relative-caret-position="272">
+          <caret line="58" column="100" selection-start-line="58" selection-start-column="100" selection-end-line="58" selection-end-column="100" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -36,7 +36,7 @@
       <div class="top-bar">
         <div class="container">
             <div class="col-sm-5" id="top-search">
- 
+
               <div class="searchbox">
                 <form action="<@hst.link siteMapItemRefId="search" />" method="get">
                   <input type="text" class="searchbox-inputtext" id="searchbox-inputtext" name="query"
@@ -56,7 +56,7 @@
  
             <!-- Logo -->
             <div class="col-xs-2 logo">
-              <a href="index.html"><img src="<@hst.webfile path="/images/logo11.png"/>" alt="" height="107" /></a>
+              <a href="/root"><img src="<@hst.webfile path="/images/logo11.png"/>" alt="" height="80" /></a>
             </div>
             <!-- //Logo// -->
  
@@ -99,6 +99,11 @@
           <div class="row">
             <div class="col-md-12 col-sm-12">
               <div class="page-info">
+                <div align="center" class="container"
+                     style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size: 32px;
+                                 font-weight: bold; color:#f44242">
+                  +7 700 300 7838 <br>
+                </div>
               </div>
             </div>
           </div>

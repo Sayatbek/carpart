@@ -1,0 +1,10 @@
+/hst:hst/hst:configurations/gogreen/hst:workspace/hst:containers/homepage/main/simplecontent:
+  .meta:order-before: featured-products
+  jcr:primaryType: hst:containeritemcomponent
+  hst:componentclassname: org.onehippo.cms7.essentials.components.EssentialsDocumentComponent
+  hst:iconpath: images/essentials/catalog-component-icons/simple-content.png
+  hst:label: Simple Content
+  hst:parameternames: [document, org.hippoecm.hst.core.component.template]
+  hst:parametervalues: [content/запчасти-на-рено---renault, 'webfile:/freemarker/hstdefault/contentpage-main.ftl']
+  hst:template: contentpage-main
+  hst:xtype: hst.item

@@ -247,3 +247,491 @@
           resource: /content/gallery/gogreen/products/smcenturian_detail.jpg/smcenturian_detail.jpg/smallsquare/smallsquare.jpg
         jcr:lastModified: 2017-09-13T14:02:23.979-07:00
         jcr:mimeType: image/jpeg
+  /gogreen_largesquare.jpeg:
+    jcr:primaryType: hippo:handle
+    jcr:mixinTypes: ['mix:referenceable']
+    jcr:uuid: e55dde39-a989-4bfd-8ab6-c7dd8fcab664
+    /gogreen_largesquare.jpeg:
+      jcr:primaryType: gogreen:imageset
+      hippo:availability: [live, preview]
+      hippogallery:filename: gogreen_largesquare.jpeg
+      /hippogallery:thumbnail:
+        jcr:primaryType: hippogallery:image
+        hippo:filename: gogreen_largesquare.jpeg
+        hippogallery:height: 60
+        hippogallery:width: 55
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/gogreen_largesquare.jpeg/gogreen_largesquare.jpeg/thumbnail/thumbnail.jpg
+        jcr:lastModified: 2018-09-06T13:39:50.154+02:00
+        jcr:mimeType: image/jpeg
+      /gogreen:small:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 224
+        hippogallery:width: 208
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/gogreen_largesquare.jpeg/gogreen_largesquare.jpeg/small/small.jpg
+        jcr:lastModified: 2018-09-06T13:39:50.154+02:00
+        jcr:mimeType: image/jpeg
+      /hippogallery:original:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 600
+        hippogallery:width: 558
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/gogreen_largesquare.jpeg/gogreen_largesquare.jpeg/original/original.jpg
+        jcr:lastModified: 2018-09-06T13:39:50.154+02:00
+        jcr:mimeType: image/jpeg
+      /gogreen:large:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 302
+        hippogallery:width: 280
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/gogreen_largesquare.jpeg/gogreen_largesquare.jpeg/large/large.jpg
+        jcr:lastModified: 2018-09-06T13:39:50.154+02:00
+        jcr:mimeType: image/jpeg
+      /gogreen:banner:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 250
+        hippogallery:width: 232
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/gogreen_largesquare.jpeg/gogreen_largesquare.jpeg/banner/banner.jpg
+        jcr:lastModified: 2018-09-06T13:39:50.154+02:00
+        jcr:mimeType: image/jpeg
+      /gogreen:largesquare:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 600
+        hippogallery:width: 558
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/gogreen_largesquare.jpeg/gogreen_largesquare.jpeg/largesquare/largesquare.jpg
+        jcr:lastModified: 2018-09-06T13:39:50.154+02:00
+        jcr:mimeType: image/jpeg
+      /gogreen:mediumsquare:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 312
+        hippogallery:width: 291
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/gogreen_largesquare.jpeg/gogreen_largesquare.jpeg/mediumsquare/mediumsquare.jpg
+        jcr:lastModified: 2018-09-06T13:39:50.154+02:00
+        jcr:mimeType: image/jpeg
+      /gogreen:smallsquare:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 232
+        hippogallery:width: 216
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/gogreen_largesquare.jpeg/gogreen_largesquare.jpeg/smallsquare/smallsquare.jpg
+        jcr:lastModified: 2018-09-06T13:39:50.154+02:00
+        jcr:mimeType: image/jpeg
+  /gogreen_largesquare.png:
+    jcr:primaryType: hippo:handle
+    jcr:mixinTypes: ['mix:referenceable']
+    jcr:uuid: 1780e511-62bd-4ef7-bd76-ca566222db70
+    /gogreen_largesquare.png:
+      jcr:primaryType: gogreen:imageset
+      hippo:availability: [live, preview]
+      hippogallery:filename: gogreen_largesquare.png
+      /hippogallery:thumbnail:
+        jcr:primaryType: hippogallery:image
+        hippo:filename: gogreen_largesquare.png
+        hippogallery:height: 29
+        hippogallery:width: 60
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/gogreen_largesquare.png/gogreen_largesquare.png/thumbnail/thumbnail.png
+        jcr:lastModified: 2018-09-06T13:41:59.299+02:00
+        jcr:mimeType: image/png
+      /gogreen:small:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 224
+        hippogallery:width: 455
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/gogreen_largesquare.png/gogreen_largesquare.png/small/small.png
+        jcr:lastModified: 2018-09-06T13:41:59.299+02:00
+        jcr:mimeType: image/png
+      /hippogallery:original:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 326
+        hippogallery:width: 663
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/gogreen_largesquare.png/gogreen_largesquare.png/original/original.png
+        jcr:lastModified: 2018-09-06T13:41:59.299+02:00
+        jcr:mimeType: image/png
+      /gogreen:large:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 302
+        hippogallery:width: 614
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/gogreen_largesquare.png/gogreen_largesquare.png/large/large.png
+        jcr:lastModified: 2018-09-06T13:41:59.299+02:00
+        jcr:mimeType: image/png
+      /gogreen:banner:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 250
+        hippogallery:width: 508
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/gogreen_largesquare.png/gogreen_largesquare.png/banner/banner.png
+        jcr:lastModified: 2018-09-06T13:41:59.299+02:00
+        jcr:mimeType: image/png
+      /gogreen:largesquare:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 326
+        hippogallery:width: 663
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/gogreen_largesquare.png/gogreen_largesquare.png/largesquare/largesquare.png
+        jcr:lastModified: 2018-09-06T13:41:59.299+02:00
+        jcr:mimeType: image/png
+      /gogreen:mediumsquare:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 153
+        hippogallery:width: 313
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/gogreen_largesquare.png/gogreen_largesquare.png/mediumsquare/mediumsquare.png
+        jcr:lastModified: 2018-09-06T13:41:59.299+02:00
+        jcr:mimeType: image/png
+      /gogreen:smallsquare:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 114
+        hippogallery:width: 232
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/gogreen_largesquare.png/gogreen_largesquare.png/smallsquare/smallsquare.png
+        jcr:lastModified: 2018-09-06T13:41:59.299+02:00
+        jcr:mimeType: image/png
+  /gogreen_largesquare-1.png:
+    jcr:primaryType: hippo:handle
+    jcr:mixinTypes: ['hippo:named', 'mix:referenceable']
+    jcr:uuid: e826623c-7e02-45be-8dd5-c4ec86bb3d66
+    hippo:name: gogreen_largesquare (1).png
+    /gogreen_largesquare-1.png:
+      jcr:primaryType: gogreen:imageset
+      hippo:availability: [live, preview]
+      hippogallery:filename: gogreen_largesquare (1).png
+      /hippogallery:thumbnail:
+        jcr:primaryType: hippogallery:image
+        hippo:filename: gogreen_largesquare (1).png
+        hippogallery:height: 45
+        hippogallery:width: 60
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/gogreen_largesquare-1.png/gogreen_largesquare-1.png/thumbnail/thumbnail.png
+        jcr:lastModified: 2018-09-06T13:43:19.648+02:00
+        jcr:mimeType: image/png
+      /gogreen:small:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 224
+        hippogallery:width: 294
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/gogreen_largesquare-1.png/gogreen_largesquare-1.png/small/small.png
+        jcr:lastModified: 2018-09-06T13:43:19.648+02:00
+        jcr:mimeType: image/png
+      /hippogallery:original:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 346
+        hippogallery:width: 455
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/gogreen_largesquare-1.png/gogreen_largesquare-1.png/original/original.png
+        jcr:lastModified: 2018-09-06T13:43:19.648+02:00
+        jcr:mimeType: image/png
+      /gogreen:large:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 302
+        hippogallery:width: 397
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/gogreen_largesquare-1.png/gogreen_largesquare-1.png/large/large.png
+        jcr:lastModified: 2018-09-06T13:43:19.648+02:00
+        jcr:mimeType: image/png
+      /gogreen:banner:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 250
+        hippogallery:width: 328
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/gogreen_largesquare-1.png/gogreen_largesquare-1.png/banner/banner.png
+        jcr:lastModified: 2018-09-06T13:43:19.648+02:00
+        jcr:mimeType: image/png
+      /gogreen:largesquare:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 346
+        hippogallery:width: 455
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/gogreen_largesquare-1.png/gogreen_largesquare-1.png/largesquare/largesquare.png
+        jcr:lastModified: 2018-09-06T13:43:19.648+02:00
+        jcr:mimeType: image/png
+      /gogreen:mediumsquare:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 238
+        hippogallery:width: 313
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/gogreen_largesquare-1.png/gogreen_largesquare-1.png/mediumsquare/mediumsquare.png
+        jcr:lastModified: 2018-09-06T13:43:19.648+02:00
+        jcr:mimeType: image/png
+      /gogreen:smallsquare:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 177
+        hippogallery:width: 232
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/gogreen_largesquare-1.png/gogreen_largesquare-1.png/smallsquare/smallsquare.png
+        jcr:lastModified: 2018-09-06T13:43:19.648+02:00
+        jcr:mimeType: image/png
+  /kaz-min.png:
+    jcr:primaryType: hippo:handle
+    jcr:mixinTypes: ['mix:referenceable']
+    jcr:uuid: 20a2e8fe-13c7-4cd6-988f-59732f905d2e
+    /kaz-min.png:
+      jcr:primaryType: gogreen:imageset
+      hippo:availability: [live, preview]
+      hippogallery:filename: kaz-min.png
+      /hippogallery:thumbnail:
+        jcr:primaryType: hippogallery:image
+        hippo:filename: kaz-min.png
+        hippogallery:height: 23
+        hippogallery:width: 60
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/kaz-min.png/kaz-min.png/thumbnail/thumbnail.png
+        jcr:lastModified: 2018-09-06T13:46:34.045+02:00
+        jcr:mimeType: image/png
+      /gogreen:small:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 191
+        hippogallery:width: 491
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/kaz-min.png/kaz-min.png/small/small.png
+        jcr:lastModified: 2018-09-06T13:46:34.045+02:00
+        jcr:mimeType: image/png
+      /hippogallery:original:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 312
+        hippogallery:width: 799
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/kaz-min.png/kaz-min.png/original/original.png
+        jcr:lastModified: 2018-09-06T13:46:34.045+02:00
+        jcr:mimeType: image/png
+      /gogreen:large:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 258
+        hippogallery:width: 663
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/kaz-min.png/kaz-min.png/large/large.png
+        jcr:lastModified: 2018-09-06T13:46:34.045+02:00
+        jcr:mimeType: image/png
+      /gogreen:banner:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 250
+        hippogallery:width: 640
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/kaz-min.png/kaz-min.png/banner/banner.png
+        jcr:lastModified: 2018-09-06T13:46:34.045+02:00
+        jcr:mimeType: image/png
+      /gogreen:largesquare:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 258
+        hippogallery:width: 663
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/kaz-min.png/kaz-min.png/largesquare/largesquare.png
+        jcr:lastModified: 2018-09-06T13:46:34.045+02:00
+        jcr:mimeType: image/png
+      /gogreen:mediumsquare:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 122
+        hippogallery:width: 313
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/kaz-min.png/kaz-min.png/mediumsquare/mediumsquare.png
+        jcr:lastModified: 2018-09-06T13:46:34.045+02:00
+        jcr:mimeType: image/png
+      /gogreen:smallsquare:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 90
+        hippogallery:width: 233
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/kaz-min.png/kaz-min.png/smallsquare/smallsquare.png
+        jcr:lastModified: 2018-09-06T13:46:34.045+02:00
+        jcr:mimeType: image/png
+  /renomotor_collage_parts_1-min.jpg:
+    jcr:primaryType: hippo:handle
+    jcr:mixinTypes: ['mix:referenceable']
+    jcr:uuid: 5241395c-1dee-4d86-9d84-43590de4433c
+    /renomotor_collage_parts_1-min.jpg:
+      jcr:primaryType: gogreen:imageset
+      hippo:availability: [live, preview]
+      hippogallery:filename: renomotor_collage_parts_1-min.jpg
+      /hippogallery:thumbnail:
+        jcr:primaryType: hippogallery:image
+        hippo:filename: renomotor_collage_parts_1-min.jpg
+        hippogallery:height: 22
+        hippogallery:width: 60
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/renomotor_collage_parts_1-min.jpg/renomotor_collage_parts_1-min.jpg/thumbnail/thumbnail.jpg
+        jcr:lastModified: 2018-09-06T13:47:20.245+02:00
+        jcr:mimeType: image/jpeg
+      /gogreen:small:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 188
+        hippogallery:width: 491
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/renomotor_collage_parts_1-min.jpg/renomotor_collage_parts_1-min.jpg/small/small.jpg
+        jcr:lastModified: 2018-09-06T13:47:20.245+02:00
+        jcr:mimeType: image/jpeg
+      /hippogallery:original:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 448
+        hippogallery:width: 1170
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/renomotor_collage_parts_1-min.jpg/renomotor_collage_parts_1-min.jpg/original/original.jpg
+        jcr:lastModified: 2018-09-06T13:47:20.245+02:00
+        jcr:mimeType: image/jpeg
+      /gogreen:large:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 253
+        hippogallery:width: 663
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/renomotor_collage_parts_1-min.jpg/renomotor_collage_parts_1-min.jpg/large/large.jpg
+        jcr:lastModified: 2018-09-06T13:47:20.245+02:00
+        jcr:mimeType: image/jpeg
+      /gogreen:banner:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 250
+        hippogallery:width: 652
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/renomotor_collage_parts_1-min.jpg/renomotor_collage_parts_1-min.jpg/banner/banner.jpg
+        jcr:lastModified: 2018-09-06T13:47:20.245+02:00
+        jcr:mimeType: image/jpeg
+      /gogreen:largesquare:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 253
+        hippogallery:width: 663
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/renomotor_collage_parts_1-min.jpg/renomotor_collage_parts_1-min.jpg/largesquare/largesquare.jpg
+        jcr:lastModified: 2018-09-06T13:47:20.245+02:00
+        jcr:mimeType: image/jpeg
+      /gogreen:mediumsquare:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 119
+        hippogallery:width: 313
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/renomotor_collage_parts_1-min.jpg/renomotor_collage_parts_1-min.jpg/mediumsquare/mediumsquare.jpg
+        jcr:lastModified: 2018-09-06T13:47:20.245+02:00
+        jcr:mimeType: image/jpeg
+      /gogreen:smallsquare:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 89
+        hippogallery:width: 232
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/renomotor_collage_parts_1-min.jpg/renomotor_collage_parts_1-min.jpg/smallsquare/smallsquare.jpg
+        jcr:lastModified: 2018-09-06T13:47:20.245+02:00
+        jcr:mimeType: image/jpeg
+  /akcija_na_zapchasti_17_04_2017-min-1.jpg:
+    jcr:primaryType: hippo:handle
+    jcr:mixinTypes: ['hippo:named', 'mix:referenceable']
+    jcr:uuid: 9fb091d9-07f5-4a9a-96ee-eb0928ffde77
+    hippo:name: akcija_na_zapchasti_17_04_2017-min (1).jpg
+    /akcija_na_zapchasti_17_04_2017-min-1.jpg:
+      jcr:primaryType: gogreen:imageset
+      hippo:availability: [live, preview]
+      hippogallery:filename: akcija_na_zapchasti_17_04_2017-min (1).jpg
+      /hippogallery:thumbnail:
+        jcr:primaryType: hippogallery:image
+        hippo:filename: akcija_na_zapchasti_17_04_2017-min (1).jpg
+        hippogallery:height: 21
+        hippogallery:width: 60
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/akcija_na_zapchasti_17_04_2017-min-1.jpg/akcija_na_zapchasti_17_04_2017-min-1.jpg/thumbnail/thumbnail.jpg
+        jcr:lastModified: 2018-09-06T13:48:12.782+02:00
+        jcr:mimeType: image/jpeg
+      /gogreen:small:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 177
+        hippogallery:width: 491
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/akcija_na_zapchasti_17_04_2017-min-1.jpg/akcija_na_zapchasti_17_04_2017-min-1.jpg/small/small.jpg
+        jcr:lastModified: 2018-09-06T13:48:12.782+02:00
+        jcr:mimeType: image/jpeg
+      /hippogallery:original:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 424
+        hippogallery:width: 1170
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/akcija_na_zapchasti_17_04_2017-min-1.jpg/akcija_na_zapchasti_17_04_2017-min-1.jpg/original/original.jpg
+        jcr:lastModified: 2018-09-06T13:48:12.782+02:00
+        jcr:mimeType: image/jpeg
+      /gogreen:large:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 240
+        hippogallery:width: 663
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/akcija_na_zapchasti_17_04_2017-min-1.jpg/akcija_na_zapchasti_17_04_2017-min-1.jpg/large/large.jpg
+        jcr:lastModified: 2018-09-06T13:48:12.782+02:00
+        jcr:mimeType: image/jpeg
+      /gogreen:banner:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 250
+        hippogallery:width: 689
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/akcija_na_zapchasti_17_04_2017-min-1.jpg/akcija_na_zapchasti_17_04_2017-min-1.jpg/banner/banner.jpg
+        jcr:lastModified: 2018-09-06T13:48:12.782+02:00
+        jcr:mimeType: image/jpeg
+      /gogreen:largesquare:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 240
+        hippogallery:width: 663
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/akcija_na_zapchasti_17_04_2017-min-1.jpg/akcija_na_zapchasti_17_04_2017-min-1.jpg/largesquare/largesquare.jpg
+        jcr:lastModified: 2018-09-06T13:48:12.782+02:00
+        jcr:mimeType: image/jpeg
+      /gogreen:mediumsquare:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 113
+        hippogallery:width: 313
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/akcija_na_zapchasti_17_04_2017-min-1.jpg/akcija_na_zapchasti_17_04_2017-min-1.jpg/mediumsquare/mediumsquare.jpg
+        jcr:lastModified: 2018-09-06T13:48:12.782+02:00
+        jcr:mimeType: image/jpeg
+      /gogreen:smallsquare:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 84
+        hippogallery:width: 232
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/akcija_na_zapchasti_17_04_2017-min-1.jpg/akcija_na_zapchasti_17_04_2017-min-1.jpg/smallsquare/smallsquare.jpg
+        jcr:lastModified: 2018-09-06T13:48:12.782+02:00
+        jcr:mimeType: image/jpeg
