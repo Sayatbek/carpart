@@ -172,10 +172,10 @@
           <element id="library" level="project" name="Maven: com.google.errorprone:error_prone_annotations:2.0.18" />
           <element id="library" level="project" name="Maven: com.google.j2objc:j2objc-annotations:1.1" />
           <element id="library" level="project" name="Maven: org.codehaus.mojo:animal-sniffer-annotations:1.14" />
-          <element id="archive" name="gogreen-repository-data-application-0.1.0.jar">
+          <element id="archive" name="gogreen-repository-data-application-0.1.0-VERSION.jar">
             <element id="module-output" name="gogreen-repository-data-application" />
           </element>
-          <element id="archive" name="gogreen-repository-data-webfiles-0.1.0.jar">
+          <element id="archive" name="gogreen-repository-data-webfiles-0.1.0-VERSION.jar">
             <element id="module-output" name="gogreen-repository-data-webfiles" />
           </element>
           <element id="library" level="project" name="Maven: org.onehippo.cms7:hippo-plugin-gallerypicker:4.1.0" />
