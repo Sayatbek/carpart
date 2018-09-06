@@ -5,7 +5,6 @@ essentials/
 repository-data/
 site/
 src/
-target/
 storage*
 *.iml
 !target/mainsite-*.tar.gz
