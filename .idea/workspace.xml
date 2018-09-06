@@ -2,80 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7e54868c-4ca7-4d84-9f11-4642bab2a335" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0.info" beforeDir="false" afterPath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/WEB-INF/classes/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/WEB-INF/classes/applicationContext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/WEB-INF/classes/errors/404.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/WEB-INF/classes/errors/404.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/WEB-INF/classes/errors/500.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/WEB-INF/classes/errors/500.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/WEB-INF/classes/errors/503.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/WEB-INF/classes/errors/503.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/WEB-INF/classes/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/WEB-INF/classes/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/WEB-INF/classes/jackson.xml" beforeDir="false" afterPath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/WEB-INF/classes/jackson.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/WEB-INF/jsp/errors/404.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/WEB-INF/jsp/errors/404.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/WEB-INF/jsp/errors/500.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/WEB-INF/jsp/errors/500.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/WEB-INF/jsp/errors/503.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/WEB-INF/jsp/errors/503.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/WEB-INF/jsp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/WEB-INF/jsp/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/components/angular-animate/angular-animate.js" beforeDir="false" afterPath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/components/angular-animate/angular-animate.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/components/angular-aria/angular-aria.js" beforeDir="false" afterPath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/components/angular-aria/angular-aria.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/components/angular-chosen-localytics/dist/angular-chosen.js" beforeDir="false" afterPath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/components/angular-chosen-localytics/dist/angular-chosen.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/components/angular-sanitize/angular-sanitize.js" beforeDir="false" afterPath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/components/angular-sanitize/angular-sanitize.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/components/angular-ui-bootstrap/dist/ui-bootstrap-tpls.js" beforeDir="false" afterPath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/components/angular-ui-bootstrap/dist/ui-bootstrap-tpls.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/components/angular-ui-router/release/angular-ui-router.js" beforeDir="false" afterPath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/components/angular-ui-router/release/angular-ui-router.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/components/angular-ui-tree/dist/angular-ui-tree.css" beforeDir="false" afterPath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/components/angular-ui-tree/dist/angular-ui-tree.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/components/angular-ui-tree/dist/angular-ui-tree.js" beforeDir="false" afterPath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/components/angular-ui-tree/dist/angular-ui-tree.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/components/angular/angular.js" beforeDir="false" afterPath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/components/angular/angular.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/components/chosen-js/chosen.jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/components/chosen-js/chosen.jquery.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/components/hippo-theme/dist/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/components/hippo-theme/dist/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/components/hippo-theme/dist/css/main.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/components/hippo-theme/dist/css/main.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/components/hippo-theme/dist/fonts/glyphicons-halflings-regular.svg" beforeDir="false" afterPath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/components/hippo-theme/dist/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/components/hippo-theme/dist/images/hippo-icon-sprite.svg" beforeDir="false" afterPath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/components/hippo-theme/dist/images/hippo-icon-sprite.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/components/hippo-theme/dist/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/components/hippo-theme/dist/js/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/components/hippo-theme/dist/js/main.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/components/hippo-theme/dist/js/main.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/components/jquery/dist/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/components/jquery/dist/jquery.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/directives/essentials-cms-document-type-deep-link.html" beforeDir="false" afterPath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/directives/essentials-cms-document-type-deep-link.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/directives/essentials-draft-warning.html" beforeDir="false" afterPath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/directives/essentials-draft-warning.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/directives/essentials-feature-footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/directives/essentials-feature-footer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/directives/essentials-folder-picker.html" beforeDir="false" afterPath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/directives/essentials-folder-picker.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/directives/essentials-help.html" beforeDir="false" afterPath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/directives/essentials-help.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/directives/essentials-installed-feature.html" beforeDir="false" afterPath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/directives/essentials-installed-feature.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/directives/essentials-installed-tool.html" beforeDir="false" afterPath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/directives/essentials-installed-tool.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/directives/essentials-messages.html" beforeDir="false" afterPath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/directives/essentials-messages.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/directives/essentials-notifier.html" beforeDir="false" afterPath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/directives/essentials-notifier.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/directives/essentials-plugin.html" beforeDir="false" afterPath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/directives/essentials-plugin.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/directives/essentials-simple-install-plugin.html" beforeDir="false" afterPath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/directives/essentials-simple-install-plugin.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/directives/essentials-template-settings.html" beforeDir="false" afterPath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/directives/essentials-template-settings.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/docs/rest-api/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/docs/rest-api/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/docs/rest-api/oauth2-redirect.html" beforeDir="false" afterPath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/docs/rest-api/oauth2-redirect.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/docs/rest-api/swagger-ui-bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/docs/rest-api/swagger-ui-bundle.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/docs/rest-api/swagger-ui-standalone-preset.js" beforeDir="false" afterPath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/docs/rest-api/swagger-ui-standalone-preset.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/docs/rest-api/swagger-ui.css" beforeDir="false" afterPath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/docs/rest-api/swagger-ui.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/docs/rest-api/swagger-ui.js" beforeDir="false" afterPath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/docs/rest-api/swagger-ui.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/js/Essentials.js" beforeDir="false" afterPath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/js/Essentials.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/js/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/js/controllers.js" beforeDir="false" afterPath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/js/controllers.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/js/directives.js" beforeDir="false" afterPath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/js/directives.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/js/lib/angular-ui-tree.js" beforeDir="false" afterPath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/js/lib/angular-ui-tree.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/js/loader.js" beforeDir="false" afterPath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/js/loader.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/js/routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/js/routes.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/pages/build.html" beforeDir="false" afterPath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/pages/build.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/pages/installed-features.html" beforeDir="false" afterPath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/pages/installed-features.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/pages/introduction.html" beforeDir="false" afterPath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/pages/introduction.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/pages/library.html" beforeDir="false" afterPath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/pages/library.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/pages/tools.html" beforeDir="false" afterPath="$PROJECT_DIR$/essentials/overlays/org.onehippo.cms7.hippo-essentials-dashboard-4.1.0/pages/tools.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repository-data/application/src/main/resources/hcm-config/hst/configurations/gogreen/workspace/containers.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/repository-data/application/src/main/resources/hcm-config/hst/configurations/gogreen/workspace/containers.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repository-data/application/src/main/resources/hcm-config/hst/configurations/gogreen/workspace/sitemenus.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/repository-data/application/src/main/resources/hcm-config/hst/configurations/gogreen/workspace/sitemenus.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repository-data/application/src/main/resources/hcm-content/content/documents/gogreen/about.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/repository-data/application/src/main/resources/hcm-content/content/documents/gogreen/about.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repository-data/application/src/main/resources/hcm-content/content/documents/gogreen/banners.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/repository-data/application/src/main/resources/hcm-content/content/documents/gogreen/banners.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repository-data/application/src/main/resources/hcm-content/content/documents/gogreen/content.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/repository-data/application/src/main/resources/hcm-content/content/documents/gogreen/content.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repository-data/application/src/main/resources/hcm-content/content/documents/gogreen/news.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/repository-data/application/src/main/resources/hcm-content/content/documents/gogreen/news.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repository-data/application/src/main/resources/hcm-content/content/documents/gogreen/products.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/repository-data/application/src/main/resources/hcm-content/content/documents/gogreen/products.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repository-data/application/src/main/resources/hcm-content/content/gallery/gogreen/products.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/repository-data/application/src/main/resources/hcm-content/content/gallery/gogreen/products.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repository-data/application/src/main/resources/hcm-content/hst/configurations/gogreen/workspace/containers/homepage/main/carousel.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/repository-data/application/src/main/resources/hcm-content/hst/configurations/gogreen/workspace/containers/homepage/main/carousel.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repository-data/application/src/main/resources/hcm-content/hst/configurations/gogreen/workspace/containers/homepage/main/featured-products.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/repository-data/application/src/main/resources/hcm-content/hst/configurations/gogreen/workspace/containers/homepage/main/featured-products.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repository-data/webfiles/src/main/resources/site/freemarker/gogreen/base-layout.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/repository-data/webfiles/src/main/resources/site/freemarker/gogreen/base-layout.ftl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repository-data/webfiles/src/main/resources/site/freemarker/gogreen/featured-products.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/repository-data/webfiles/src/main/resources/site/freemarker/gogreen/featured-products.ftl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repository-data/webfiles/src/main/resources/site/freemarker/gogreen/twocolumns-right-menu.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/repository-data/webfiles/src/main/resources/site/freemarker/gogreen/twocolumns-right-menu.ftl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repository-data/webfiles/src/main/resources/site/images/logo11.png" beforeDir="false" afterPath="$PROJECT_DIR$/repository-data/webfiles/src/main/resources/site/images/logo11.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cms/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cms/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/essentials/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/essentials/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository-data/application/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/repository-data/application/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository-data/development/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/repository-data/development/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository-data/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/repository-data/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository-data/webfiles/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/repository-data/webfiles/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/site/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/essentials/target/" />
     <ignored path="$PROJECT_DIR$/repository-data/development/target/" />
@@ -108,78 +43,95 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="base-layout.ftl" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/repository-data/webfiles/src/main/resources/site/freemarker/gogreen/base-layout.ftl">
+      <file leaf-file-name="Dockerfile" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Dockerfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="58" column="100" selection-start-line="58" selection-start-column="100" selection-end-line="58" selection-end-column="100" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="102">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="twocolumns-right-menu.ftl" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/repository-data/webfiles/src/main/resources/site/freemarker/gogreen/twocolumns-right-menu.ftl">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
-              <folding>
-                <element signature="e#1048#1064#0#HTML" expanded="true" />
-              </folding>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="199">
+                <caret line="45" column="44" selection-start-line="45" selection-start-column="44" selection-end-line="45" selection-end-column="44" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="base-top-menu.ftl" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/repository-data/webfiles/src/main/resources/site/freemarker/gogreen/base-top-menu.ftl">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="faceted-navigation.ftl" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/repository-data/webfiles/src/main/resources/site/freemarker/gogreen/faceted-navigation.ftl">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="featured-products.ftl" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/repository-data/webfiles/src/main/resources/site/freemarker/gogreen/featured-products.ftl">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/repository-data/application/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="39" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
+            <state relative-caret-position="119">
+              <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="twocolumns-main.ftl" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/repository-data/webfiles/src/main/resources/site/freemarker/gogreen/twocolumns-main.ftl">
-          <provider selected="true" editor-type-id="text-editor" />
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/repository-data/development/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+            </state>
+          </provider>
         </entry>
       </file>
-      <file leaf-file-name="homepage-main.ftl" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/repository-data/webfiles/src/main/resources/site/freemarker/gogreen/homepage-main.ftl">
-          <provider selected="true" editor-type-id="text-editor" />
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/repository-data/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cms/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/essentials/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/repository-data/webfiles/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/site/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="366" column="26" selection-start-line="366" selection-start-column="26" selection-end-line="366" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="context.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/conf/context.xml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="catalina-logging.properties" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/conf/catalina-logging.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="57" selection-start-line="57" selection-end-line="57" />
+            <state relative-caret-position="238">
+              <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -189,6 +141,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>org.codehaus.mojo</find>
+      <find>SNAPSHOT</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -197,12 +150,18 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/repository-data/application/pom.xml" />
-        <option value="$PROJECT_DIR$/repository-data/development/pom.xml" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/repository-data/webfiles/src/main/resources/site/freemarker/gogreen/featured-products.ftl" />
         <option value="$PROJECT_DIR$/repository-data/webfiles/src/main/resources/site/freemarker/gogreen/twocolumns-right-menu.ftl" />
         <option value="$PROJECT_DIR$/repository-data/webfiles/src/main/resources/site/freemarker/gogreen/base-layout.ftl" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/Dockerfile" />
+        <option value="$PROJECT_DIR$/repository-data/application/pom.xml" />
+        <option value="$PROJECT_DIR$/repository-data/development/pom.xml" />
+        <option value="$PROJECT_DIR$/repository-data/pom.xml" />
+        <option value="$PROJECT_DIR$/cms/pom.xml" />
+        <option value="$PROJECT_DIR$/essentials/pom.xml" />
+        <option value="$PROJECT_DIR$/repository-data/webfiles/pom.xml" />
+        <option value="$PROJECT_DIR$/site/pom.xml" />
       </list>
     </option>
   </component>
@@ -258,6 +217,11 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../mainsite" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sorazbekov\projects\carpart" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -333,15 +297,24 @@
       <workItem from="1519749476972" duration="602000" />
       <workItem from="1519750168194" duration="334000" />
       <workItem from="1519750546930" duration="1645000" />
-      <workItem from="1536230221866" duration="6158000" />
+      <workItem from="1536230221866" duration="7565000" />
     </task>
+    <task id="LOCAL-00001" summary="DB filled Dockerfile added">
+      <created>1536239151049</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1536239151049</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11741000" />
+    <option name="totallyTimeSpent" value="13148000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -384,6 +357,12 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="DB filled Dockerfile added" />
+    <option name="LAST_COMMIT_MESSAGE" value="DB filled Dockerfile added" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/repository-data/webfiles/src/main/resources/site/freemarker/gogreen/base-layout.ftl">
@@ -470,40 +449,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/repository-data/application/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/repository-data/development/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/repository-data/webfiles/src/main/resources/site/freemarker/gogreen/search-main.ftl">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/repository-data/webfiles/src/main/resources/site/images/gogreenlogo2.png">
       <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="366" column="26" selection-start-line="366" selection-start-column="26" selection-end-line="366" selection-end-column="26" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/conf/catalina-logging.properties">
       <provider selected="true" editor-type-id="text-editor">
@@ -551,6 +501,82 @@
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.dockerignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="199">
+            <caret line="45" column="44" selection-start-line="45" selection-start-column="44" selection-end-line="45" selection-end-column="44" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repository-data/application/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repository-data/development/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repository-data/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cms/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/essentials/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repository-data/webfiles/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
         </state>
       </provider>
     </entry>

@@ -5,7 +5,7 @@
   <parent>
     <groupId>org.example</groupId>
     <artifactId>gogreen</artifactId>
-    <version>0.1.0-SNAPSHOT</version>
+    <version>0.1.0</version>
   </parent>
   <artifactId>gogreen-site</artifactId>
   <packaging>war</packaging>
