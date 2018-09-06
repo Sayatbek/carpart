@@ -241,7 +241,7 @@
                   <location>${project.basedir}/site/target/site.war</location>
                   <type>war</type>
                   <properties>
-                    <context>/site</context>
+                    <context>/</context>
                   </properties>
                 </deployable>
                 <deployable>

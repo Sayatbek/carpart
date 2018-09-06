@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7e54868c-4ca7-4d84-9f11-4642bab2a335" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.dockerignore" beforeDir="false" afterPath="$PROJECT_DIR$/.dockerignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository-data/application/src/main/resources/hcm-config/configuration/frontend/cms.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/repository-data/application/src/main/resources/hcm-config/configuration/frontend/cms.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository-data/application/src/main/resources/hcm-config/hst/hosts.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/repository-data/application/src/main/resources/hcm-config/hst/hosts.yaml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/essentials/target/" />
     <ignored path="$PROJECT_DIR$/repository-data/development/target/" />
@@ -60,7 +62,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/assembly/webapps-component.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
@@ -68,13 +70,22 @@
       <file leaf-file-name="Dockerfile" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Dockerfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="4" />
+            <state relative-caret-position="68">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".dockerignore" pinned="false" current-in-tab="true">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="249" column="30" lean-forward="true" selection-start-line="249" selection-start-column="30" selection-end-line="249" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".dockerignore" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.dockerignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
@@ -90,11 +101,6 @@
               <caret line="5" selection-start-line="5" selection-end-line="5" selection-end-column="6" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="conf-component.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/assembly/conf-component.xml">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file leaf-file-name="common-lib-component.xml" pinned="false" current-in-tab="false">
@@ -113,6 +119,7 @@
       <find>&gt;0.1.0</find>
       <find>mainsite</find>
       <find>dist</find>
+      <find>site</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -125,7 +132,6 @@
         <option value="$PROJECT_DIR$/repository-data/webfiles/src/main/resources/site/freemarker/gogreen/twocolumns-right-menu.ftl" />
         <option value="$PROJECT_DIR$/repository-data/webfiles/src/main/resources/site/freemarker/gogreen/base-layout.ftl" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/repository-data/application/pom.xml" />
         <option value="$PROJECT_DIR$/repository-data/development/pom.xml" />
         <option value="$PROJECT_DIR$/repository-data/pom.xml" />
@@ -135,8 +141,9 @@
         <option value="$PROJECT_DIR$/repository-data/webfiles/pom.xml" />
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/package-lock.json" />
-        <option value="$PROJECT_DIR$/Dockerfile" />
         <option value="$PROJECT_DIR$/.dockerignore" />
+        <option value="$PROJECT_DIR$/Dockerfile" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -158,7 +165,7 @@
       <path value="$PROJECT_DIR$/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-7" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
@@ -180,11 +187,6 @@
             <path>
               <item name="gogreen" type="b2602c69:ProjectViewProjectNode" />
               <item name="carpart" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gogreen" type="b2602c69:ProjectViewProjectNode" />
-              <item name="carpart" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -279,7 +281,7 @@
       <workItem from="1519749476972" duration="602000" />
       <workItem from="1519750168194" duration="334000" />
       <workItem from="1519750546930" duration="1645000" />
-      <workItem from="1536230221866" duration="15578000" />
+      <workItem from="1536230221866" duration="16795000" />
     </task>
     <task id="LOCAL-00001" summary="DB filled Dockerfile added">
       <created>1536239151049</created>
@@ -337,14 +339,21 @@
       <option name="project" value="LOCAL" />
       <updated>1536248037284</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Dockers">
+      <created>1536250528788</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1536250528788</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21161000" />
+    <option name="totallyTimeSpent" value="22378000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -366,10 +375,10 @@
       <window_info anchor="bottom" id="Java Enterprise" order="7" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.32919955" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32589287" />
       <window_info anchor="bottom" id="Spring" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4969743" weight="0.4441939" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27461708" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.4969743" visible="true" weight="0.44308037" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1337953" />
       <window_info anchor="right" id="Bean Validation" order="4" />
       <window_info id="Web" order="3" side_tool="true" />
       <window_info id="JRebel" order="2" side_tool="true" />
@@ -395,7 +404,8 @@
     <MESSAGE value="DB filled Dockerfile added" />
     <MESSAGE value="Version SNAPSHOT removed" />
     <MESSAGE value="Version VERSION added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Version VERSION added" />
+    <MESSAGE value="Dockers" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dockers" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/repository-data/webfiles/src/main/resources/site/freemarker/gogreen/base-layout.ftl">
@@ -655,13 +665,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1211">
-          <caret line="278" column="14" selection-start-line="278" selection-start-column="10" selection-end-line="278" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/assembly/conf-component.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -683,7 +686,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/assembly/webapps-component.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
@@ -694,17 +697,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Dockerfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.dockerignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="249" column="30" lean-forward="true" selection-start-line="249" selection-start-column="30" selection-end-line="249" selection-end-column="30" />
         </state>
       </provider>
     </entry>
