@@ -105,7 +105,7 @@
         <directory>src/main/resources</directory>
       </resource>
     </resources>
-    <finalName>site</finalName>
+    <finalName>ROOT</finalName>
     <plugins>
       <plugin>
         <groupId>org.codehaus.cargo</groupId>

@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7e54868c-4ca7-4d84-9f11-4642bab2a335" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/gogreen_site_war.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/gogreen_site_war.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/gogreen_site_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/gogreen_site_war_exploded.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repository-data/webfiles/src/main/resources/site/freemarker/gogreen/twocolumns-main.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/repository-data/webfiles/src/main/resources/site/freemarker/gogreen/twocolumns-main.ftl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repository-data/webfiles/src/main/resources/site/freemarker/gogreen/twocolumns-right-menu.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/repository-data/webfiles/src/main/resources/site/freemarker/gogreen/twocolumns-right-menu.ftl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/site/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/assembly/webapps-component.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/assembly/webapps-component.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/essentials/target/" />
     <ignored path="$PROJECT_DIR$/repository-data/development/target/" />
@@ -37,11 +40,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="distribution-with-development-data.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/assembly/distribution-with-development-data.xml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
       <file leaf-file-name="shared-lib-component.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/assembly/shared-lib-component.xml">
           <provider selected="true" editor-type-id="text-editor" />
@@ -52,11 +50,11 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="webapps-component.xml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="webapps-component.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/assembly/webapps-component.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="102">
+              <caret line="6" column="34" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -73,17 +71,26 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="255" column="34" selection-start-line="255" selection-start-column="34" selection-end-line="255" selection-end-column="34" />
+            <state relative-caret-position="83">
+              <caret line="240" column="63" selection-start-line="240" selection-start-column="63" selection-end-line="240" selection-end-column="63" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="twocolumns-main.ftl" pinned="false" current-in-tab="true">
+      <file leaf-file-name="twocolumns-main.ftl" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/repository-data/webfiles/src/main/resources/site/freemarker/gogreen/twocolumns-main.ftl">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
+            <state relative-caret-position="187">
+              <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/site/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="191">
+              <caret line="112" column="23" selection-start-line="112" selection-start-column="23" selection-end-line="112" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -127,6 +134,9 @@
       <find>mainsite</find>
       <find>dist</find>
       <find>site</find>
+      <find>file</find>
+      <find>/site</find>
+      <find>ROOT</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -143,15 +153,16 @@
         <option value="$PROJECT_DIR$/repository-data/pom.xml" />
         <option value="$PROJECT_DIR$/cms/pom.xml" />
         <option value="$PROJECT_DIR$/essentials/pom.xml" />
-        <option value="$PROJECT_DIR$/site/pom.xml" />
         <option value="$PROJECT_DIR$/repository-data/webfiles/pom.xml" />
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/package-lock.json" />
         <option value="$PROJECT_DIR$/.dockerignore" />
         <option value="$PROJECT_DIR$/Dockerfile" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/repository-data/webfiles/src/main/resources/site/freemarker/gogreen/twocolumns-right-menu.ftl" />
         <option value="$PROJECT_DIR$/repository-data/webfiles/src/main/resources/site/freemarker/gogreen/twocolumns-main.ftl" />
+        <option value="$PROJECT_DIR$/site/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/assembly/webapps-component.xml" />
       </list>
     </option>
   </component>
@@ -174,8 +185,7 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="43" />
-    <option name="y" value="211" />
+    <option name="x" value="948" />
     <option name="width" value="981" />
     <option name="height" value="1032" />
   </component>
@@ -200,70 +210,7 @@
             <path>
               <item name="gogreen" type="b2602c69:ProjectViewProjectNode" />
               <item name="carpart" type="462c0819:PsiDirectoryNode" />
-              <item name="repository-data" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gogreen" type="b2602c69:ProjectViewProjectNode" />
-              <item name="carpart" type="462c0819:PsiDirectoryNode" />
-              <item name="repository-data" type="462c0819:PsiDirectoryNode" />
-              <item name="webfiles" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gogreen" type="b2602c69:ProjectViewProjectNode" />
-              <item name="carpart" type="462c0819:PsiDirectoryNode" />
-              <item name="repository-data" type="462c0819:PsiDirectoryNode" />
-              <item name="webfiles" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gogreen" type="b2602c69:ProjectViewProjectNode" />
-              <item name="carpart" type="462c0819:PsiDirectoryNode" />
-              <item name="repository-data" type="462c0819:PsiDirectoryNode" />
-              <item name="webfiles" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gogreen" type="b2602c69:ProjectViewProjectNode" />
-              <item name="carpart" type="462c0819:PsiDirectoryNode" />
-              <item name="repository-data" type="462c0819:PsiDirectoryNode" />
-              <item name="webfiles" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gogreen" type="b2602c69:ProjectViewProjectNode" />
-              <item name="carpart" type="462c0819:PsiDirectoryNode" />
-              <item name="repository-data" type="462c0819:PsiDirectoryNode" />
-              <item name="webfiles" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
               <item name="site" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gogreen" type="b2602c69:ProjectViewProjectNode" />
-              <item name="carpart" type="462c0819:PsiDirectoryNode" />
-              <item name="repository-data" type="462c0819:PsiDirectoryNode" />
-              <item name="webfiles" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="site" type="462c0819:PsiDirectoryNode" />
-              <item name="freemarker" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gogreen" type="b2602c69:ProjectViewProjectNode" />
-              <item name="carpart" type="462c0819:PsiDirectoryNode" />
-              <item name="repository-data" type="462c0819:PsiDirectoryNode" />
-              <item name="webfiles" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="site" type="462c0819:PsiDirectoryNode" />
-              <item name="freemarker" type="462c0819:PsiDirectoryNode" />
-              <item name="gogreen" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -274,7 +221,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../mainsite" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
@@ -359,7 +306,7 @@
       <workItem from="1519750168194" duration="334000" />
       <workItem from="1519750546930" duration="1645000" />
       <workItem from="1536230221866" duration="17493000" />
-      <workItem from="1536308674154" duration="497000" />
+      <workItem from="1536308674154" duration="2388000" />
     </task>
     <task id="LOCAL-00001" summary="DB filled Dockerfile added">
       <created>1536239151049</created>
@@ -431,15 +378,21 @@
       <option name="project" value="LOCAL" />
       <updated>1536252288473</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="maps columns edited">
+      <created>1536309221676</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1536309221676</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23573000" />
+    <option name="totallyTimeSpent" value="25464000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -462,11 +415,12 @@
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32589287" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Spring" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4969743" visible="true" weight="0.44589552" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32550606" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.4969743" visible="true" weight="0.44589552" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.32550606" />
       <window_info anchor="right" id="Bean Validation" order="4" />
       <window_info id="Web" order="3" side_tool="true" />
       <window_info id="JRebel" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -474,7 +428,6 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -491,13 +444,17 @@
     <MESSAGE value="Version VERSION added" />
     <MESSAGE value="Dockers" />
     <MESSAGE value="/site removed" />
-    <option name="LAST_COMMIT_MESSAGE" value="/site removed" />
+    <MESSAGE value="maps columns edited" />
+    <option name="LAST_COMMIT_MESSAGE" value="maps columns edited" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/repository-data/webfiles/src/main/resources/site/freemarker/gogreen/base-layout.ftl">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1683">
           <caret line="99" column="23" selection-start-line="99" selection-start-column="23" selection-end-line="99" selection-end-column="23" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -611,6 +568,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="58" column="100" selection-start-line="58" selection-start-column="100" selection-end-line="58" selection-end-column="100" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -690,13 +650,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/site/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/repository-data/webfiles/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
@@ -750,13 +703,6 @@
     <entry file="file://$PROJECT_DIR$/src/main/assembly/shared-lib-development-data-component.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/assembly/webapps-component.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -778,13 +724,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="255" column="34" selection-start-line="255" selection-start-column="34" selection-end-line="255" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/repository-data/webfiles/src/main/resources/site/freemarker/gogreen/twocolumns-right-menu.ftl">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -794,8 +733,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/repository-data/webfiles/src/main/resources/site/freemarker/gogreen/twocolumns-main.ftl">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
+        <state relative-caret-position="187">
+          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="112" column="23" selection-start-line="112" selection-start-column="23" selection-end-line="112" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="83">
+          <caret line="240" column="63" selection-start-line="240" selection-start-column="63" selection-end-line="240" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/assembly/webapps-component.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="34" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
         </state>
       </provider>
     </entry>
