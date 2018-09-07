@@ -1,4 +1,5 @@
 /hst:hst/hst:configurations/gogreen/hst:workspace/hst:sitemenus/main/Доставка:
   .meta:order-before: Гарантия
   jcr:primaryType: hst:sitemenuitem
+  hst:referencesitemapitem: content/доставка-запчастей-рено-пежо-по-городу-алматы.html
   hst:repobased: false

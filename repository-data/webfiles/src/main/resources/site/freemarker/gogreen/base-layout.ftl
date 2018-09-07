@@ -109,9 +109,9 @@
           </div>
         </div>
       </div>
- 
-      <@hst.include ref="main"/>
-
+      <div align="center">
+          <@hst.include ref="main"/>
+      </div>
     </div>
  
     <!-- footer -->

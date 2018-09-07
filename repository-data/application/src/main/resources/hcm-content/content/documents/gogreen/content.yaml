@@ -255,3 +255,93 @@
           <p>Только качественные детали позволят обеспечить безукоризненную работу автомобиля и не снизить его эксплуатационные характеристики. Мы предлагаем вам самые надежные автозапчасти от ведущих производителей: запчасти&nbsp;<strong>Peugeot 206</strong>, запчасти&nbsp;<strong>Peugeot 307</strong>, запчасти&nbsp;<strong><strong><strong>Peugeot&nbsp;</strong>Boxer</strong></strong>, запчасти&nbsp;<strong>Peugeot 207&nbsp;</strong>,<strong>&nbsp;</strong>запчасти&nbsp;<strong><strong><strong><strong>Peugeot 406</strong></strong></strong></strong><strong><strong>&nbsp;</strong></strong>и гарантируем их безупречную работу, безотказность и долговечность. Все запчасти изготавливаются на современном оборудовании с использованием качественных материалов и проходят строгий контроль на всех этапах производства. Поэтому продукция, которая поступает в наш интернет-магазин, не имеет никаких недоработок и дефектов.</p>
 
           <p>Важно помнить, что от качества деталей, устанавливаемых на Ваш автомобиль, напрямую зависит его техническое состояние, надежность и безопасность. В нашем интернет-магазине представлены только качественные автозапчасти, а выгодные цены порадуют как оптовых, так и розничных покупателей. Всем клиентам мы предлагаем наиболее выгодные условия сотрудничества, индивидуальный подход и профессиональные консультации.</p>
+  /доставка-запчастей-рено-пежо-по-городу-алматы:
+    jcr:primaryType: hippo:handle
+    jcr:mixinTypes: ['hippo:named', 'mix:referenceable']
+    jcr:uuid: 1d7be22e-6e15-41d7-8ef3-6da07aef681a
+    hippo:name: Доставка запчастей рено пежо по городу Алматы
+    /доставка-запчастей-рено-пежо-по-городу-алматы[1]:
+      jcr:primaryType: gogreen:contentdocument
+      jcr:mixinTypes: ['mix:referenceable']
+      jcr:uuid: 3300e635-435c-49e6-b46b-f91815f2a785
+      gogreen:introduction: ''
+      gogreen:publicationdate: 0001-01-01T13:00:00+01:00
+      gogreen:title: Доставка запчастей рено пежо по городу Алматы
+      hippo:availability: []
+      hippo:related___pathreference: []
+      hippostd:state: draft
+      hippostdpubwf:createdBy: admin
+      hippostdpubwf:creationDate: 2018-09-07T12:18:09.363+02:00
+      hippostdpubwf:lastModificationDate: 2018-09-07T12:18:09.363+02:00
+      hippostdpubwf:lastModifiedBy: admin
+      hippotranslation:id: 1301a47f-c28a-4e14-9b1c-d1bfc2fdc34b
+      hippotranslation:locale: en
+      /gogreen:content:
+        jcr:primaryType: hippostd:html
+        hippostd:content: |-
+          <p>Уважаемы автолюбители,</p>
+
+          <p>Если Вы уже диагностировали автомобиль и планируете заменить изношенные запчасти, Вы можете <strong>их заказать</strong> в нашем магазине.</p>
+
+          <p>Для этого Вам необходимо <strong>скинуть вин-код</strong> (номер кузова) на наш номер <strong>8 700 300 7838</strong> и список необходимых запчастей.</p>
+
+          <p>Если стоимость общего заказа будет превышать 30 000 тг. мы организуем <strong>бесплатную доставку</strong> по городу Алматы.</p>
+
+          <p>Для региональных клиентов возможна отправка поездом или автобусом согласно расписанию отправки в Ваш город.</p>
+    /доставка-запчастей-рено-пежо-по-городу-алматы[2]:
+      jcr:primaryType: gogreen:contentdocument
+      jcr:mixinTypes: ['mix:referenceable', 'mix:versionable']
+      jcr:uuid: 373e8ff5-9e2c-411e-bd62-9c47a2c81654
+      gogreen:introduction: ''
+      gogreen:publicationdate: 0001-01-01T13:00:00+01:00
+      gogreen:title: Доставка запчастей рено пежо по городу Алматы
+      hippo:availability: [preview]
+      hippo:related___pathreference: []
+      hippostd:state: unpublished
+      hippostdpubwf:createdBy: admin
+      hippostdpubwf:creationDate: 2018-09-07T12:18:09.363+02:00
+      hippostdpubwf:lastModificationDate: 2018-09-07T12:19:31.035+02:00
+      hippostdpubwf:lastModifiedBy: admin
+      hippotranslation:id: 1301a47f-c28a-4e14-9b1c-d1bfc2fdc34b
+      hippotranslation:locale: en
+      /gogreen:content:
+        jcr:primaryType: hippostd:html
+        hippostd:content: |-
+          <p>Уважаемы автолюбители,</p>
+
+          <p>Если Вы уже диагностировали автомобиль и планируете заменить изношенные запчасти, Вы можете <strong>их заказать</strong> в нашем магазине.</p>
+
+          <p>Для этого Вам необходимо <strong>скинуть вин-код</strong> (номер кузова) на наш номер <strong>8 700 300 7838</strong> и список необходимых запчастей.</p>
+
+          <p>Если стоимость общего заказа будет превышать 30 000 тг. мы организуем <strong>бесплатную доставку</strong> по городу Алматы.</p>
+
+          <p>Для региональных клиентов возможна отправка поездом или автобусом согласно расписанию отправки в Ваш город.</p>
+    /доставка-запчастей-рено-пежо-по-городу-алматы[3]:
+      jcr:primaryType: gogreen:contentdocument
+      jcr:mixinTypes: ['mix:referenceable']
+      jcr:uuid: 571fe60f-4bba-487b-98c3-7c1a7860fa17
+      gogreen:introduction: ''
+      gogreen:publicationdate: 0001-01-01T13:00:00+01:00
+      gogreen:title: Доставка запчастей рено пежо по городу Алматы
+      hippo:availability: [live]
+      hippo:related___pathreference: []
+      hippostd:state: published
+      hippostdpubwf:createdBy: admin
+      hippostdpubwf:creationDate: 2018-09-07T12:18:09.363+02:00
+      hippostdpubwf:lastModificationDate: 2018-09-07T12:19:31.035+02:00
+      hippostdpubwf:lastModifiedBy: admin
+      hippostdpubwf:publicationDate: 2018-09-07T12:19:35.877+02:00
+      hippotranslation:id: 1301a47f-c28a-4e14-9b1c-d1bfc2fdc34b
+      hippotranslation:locale: en
+      /gogreen:content:
+        jcr:primaryType: hippostd:html
+        hippostd:content: |-
+          <p>Уважаемы автолюбители,</p>
+
+          <p>Если Вы уже диагностировали автомобиль и планируете заменить изношенные запчасти, Вы можете <strong>их заказать</strong> в нашем магазине.</p>
+
+          <p>Для этого Вам необходимо <strong>скинуть вин-код</strong> (номер кузова) на наш номер <strong>8 700 300 7838</strong> и список необходимых запчастей.</p>
+
+          <p>Если стоимость общего заказа будет превышать 30 000 тг. мы организуем <strong>бесплатную доставку</strong> по городу Алматы.</p>
+
+          <p>Для региональных клиентов возможна отправка поездом или автобусом согласно расписанию отправки в Ваш город.</p>
