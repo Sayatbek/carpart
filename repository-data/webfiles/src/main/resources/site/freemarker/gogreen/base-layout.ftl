@@ -109,7 +109,7 @@
           </div>
         </div>
       </div>
-      <div align="center">
+      <div>
           <@hst.include ref="main"/>
       </div>
     </div>
